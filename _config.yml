@@ -1,4 +1,45 @@
 remote_theme: engraver/bay
-#title: Oleksandr V. Pylypovskyi
-#description: Home page of Oleksandr V. Pylypovskyi
-#logo: /assets/img/logo.png
+
+title: Oleksandr V. Pylypovskyi
+description: Home page of Oleksandr V. Pylypovskyi
+#og_image: /assets/img/profile-pic.jpg
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Bio
+    - name: Research
+    - name: Teaching
+    - name: Blog
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: o.pylypovskyi@hzdr.de
+      link: mailto:o.pylypovskyi@hzdr.de
+#    - name: WeChat
+#      value: YourWeChatUsername
+#      link: "#"
+#  follow:
+#    - name: Twitter
+#      link: http://twitter.com/YourTwitterUsername
+#      username: "@YourTwitterUsername"
+#    - name: Facebook
+#      link: http://facebook.com/YourFacebookUsername
+#    - name: LinkedIn
+#      link: http://linkedin.com/in/YourLinkedInUsername
+#    - name: GitLab
+#      link: http://github.com/YourGitHubUsername
+#    - name: Dribbble
+#      link: https://dribbble.com/YourDribbbleUsername
+#    - name: RSS
+#      link: /feed.xml
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
