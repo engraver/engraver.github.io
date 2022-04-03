@@ -1,8 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
-  alt: website picture
+  src: /assets/img/ov-replica.jpg
+  alt: Talk @ "Replica" seminar
 ---
 
 <p>
