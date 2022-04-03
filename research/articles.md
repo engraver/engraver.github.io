@@ -6,3 +6,5 @@
     **2021**
 
 1. Gaetano Napoli, **Oleksandr V. Pylypovskyi**, Denis D Sheka, Luigi Vergori. _Nematic shells: new insights in topology- and curvature-induced effects_, Soft Matter (2021) DOI: [10.1039/d1sm00719j](https://doi.org/10.1039/d1sm00719j)
+1. Denys Makarov, Oleksii M. Volkov, Attila Kakay, **Oleksandr V. Pylypovskyi**, Barbora Budinska, Oleksandr V. Dobrovolskiy. _New dimension in magnetism and superconductivity: 3D and curvilinear nano-architectures_, Advanced Materials P. 2101758 (2021) DOI: [10.1002/adma.202101758](https://doi.org/10.1002/adma.202101758)
+1. Oleksii M. Volkov, Florian Kronast, Claas Abert, Eduardo Sergio Oliveros Mata, Tobias Kosub, Pavlo Makushko, Denise Erb, **Oleksandr V. Pylypovskyi**, Mohamad-Assaad Mawass, Denis D. Sheka, Shengqiang Zhou, Jürgen Fassbender, Denys Makarov. _Domain-Wall Damping in Ultrathin Nanostripes with Dzyaloshinskii-Moriya Interaction_, Physical Review Applied 15, P. 034038 (2021) DOI: [10.1103/physrevapplied.15.034038](https://doi.org/10.1103/physrevapplied.15.034038)
