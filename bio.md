@@ -4,7 +4,7 @@
 * **Since 2020:** Researcher & lecturer @ Kyiv Academic University, Laboratory of superconducting quantum electronics (head: Dr. A. Shapovalov)
 
 
-Previous works:
+Previous places of work:
 
 * **2014 — 2019** Taras Shevchenko National University of Kyiv, Faculty of Radio Physics, Electronics and Computer Systems<br>
 Assistant professor
