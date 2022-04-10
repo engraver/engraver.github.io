@@ -16,3 +16,5 @@ I am Oleksandr V. Pylypovskyi, theoretical physicist working in field of magneti
 * Properties of magnetic topological solitons
 * Computational methods in physics
 
+
+
