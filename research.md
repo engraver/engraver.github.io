@@ -10,6 +10,7 @@
 - [Books/Chapters](/research/books.md)
 - [Invited talks](/research/invited.md)
 - [Conferences](/research/conferences.md)
+- [Other](/research/other.md)
 
 ## PhD
 * [Thesis](/files/Pylypovskyi.PhD.16.pdf) 

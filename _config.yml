@@ -43,3 +43,8 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+
+output:
+  html_document:
+    includes:
+      in_header: ga.html
