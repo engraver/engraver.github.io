@@ -44,7 +44,7 @@ sass:
 plugins:
   - jekyll-feed
 
-output:
-  html_document:
-    includes:
-      in_header: ga.html
+#output:
+#  html_document:
+#    includes:
+#      in_header: ga.html
