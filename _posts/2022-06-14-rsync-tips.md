@@ -1,10 +1,6 @@
 ---
 layout: post
 title:  "rsync tips"
-date:   2022-06-14 10:00:00
-categories: network linux
-tags:
-- rsync
 ---
 
 ## Copy remote folders with content recursively
