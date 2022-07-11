@@ -1,5 +1,6 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. **Oleksandr V. Pylypovskyi**. _Curvilinear antiferromagnets for spintronics applications_. The 22nd IEEE International Conference on Nanotechnology 4-8 July 2022, Palma de Mallorca, Spain. P. 83.
 1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Kai Wagner, Artem Tomilo, Brendan J. Shields, Tobias Kosub, Denis D. Sheka, Juergen Fassbender, Patrick Maletisnky, Denys Makarov. _Noncollinear antiferromagnetic textures in confined geometries_, MMM Intermag 2022, P. 59--60 (2022)
 1. **Oleksandr V. Pylypovskyi**. _Exchange and anisotropy-driven effects in antiferromagnetic spin chains_, Yuri Gaididei Memorial Workshop 2-3 February 2022 (Online event), P. 14 (2022)
 
