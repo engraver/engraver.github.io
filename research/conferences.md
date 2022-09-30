@@ -1,7 +1,9 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
-1. **Oleksandr V. Pylypovskyi**. META 2022 Torremolinos - Spain. The 12th International Conference on Metamaterials, Photonic Crystals and Plasmonics. P. 420.
+1. Yelyzaveta A. Borysenko, Denis D. Sheka, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**. _Effects of static magnetic fields in antiferromagnetic ring-shaped spin chains_, DPG Meeting of the Condensed Matter Section: Magnetism Division (Book of Abstracts), P. 12, 2022.
+1. **Oleksandr V. Pylypovskyi**. _Three-dimensional antiferromagnetic architectures_, META 2022 Torremolinos - Spain. The 12th International Conference on Metamaterials, Photonic Crystals and Plasmonics. P. 420.
 1. **Oleksandr V. Pylypovskyi**. _Curvilinear antiferromagnets for spintronics applications_. The 22nd IEEE International Conference on Nanotechnology 4-8 July 2022, Palma de Mallorca, Spain. P. 83.
+1. Yelyzaveta A. Borysenko and Denis D. Sheka and Jürgen Fassbender and Jeroen van den Brink and Denys Makarov, **Oleksandr V. Pylypovskyi**. _Antiferromagnetic ring-shaped spin chains exposed by static magnetic field_, UKRAPRO Workshop: Condensed matter science assisted by machine learning, 2022.
 1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Kai Wagner, Artem Tomilo, Brendan J. Shields, Tobias Kosub, Denis D. Sheka, Juergen Fassbender, Patrick Maletisnky, Denys Makarov. _Noncollinear antiferromagnetic textures in confined geometries_, MMM Intermag 2022, P. 59--60 (2022)
 1. **Oleksandr V. Pylypovskyi**. _Exchange and anisotropy-driven effects in antiferromagnetic spin chains_, Yuri Gaididei Memorial Workshop 2-3 February 2022 (Online event), P. 14 (2022)
 
