@@ -1,9 +1,17 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. Oleksii Volkov, **Oleksandr V. Pylypovskyi**, Florian Kronast, Claas Abert, Eduardo Sergio Oliveros Mata, Pavlo Makushko, Mohamad-Assaad Mawass, Volodymyr Kravchuk, Denis Sheka, Juergen Fassbender, Denys Makarov. _Dzyaloshinskii-Moriya interaction and domain wall damping in ultrathin nanostripes_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
+P. 07nmm-17.
+1. **Oleksandr V. Pylypovskyi**, Oleksii Volkov, Denis Sheka, Attila Kakay, Volodymyr Kravchuk, Pedro Landeros, Florian Kronast, Ingolf Moench, Mohamad-Assaad Mawass, Avadh Saxena, Juergen Fassbender, Denys Makarov. _Curvature-induced local & nonlocal chiral effects in curvilinear ferromagnetic shells and wires_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
+P. 07nmm-16.
+1. **Oleksandr V. Pylypovskyi**, Denys Kononenko, Yelyzaveta Borysenko, Artem Tomilo, Kostiantyn Yershov, Ulrich Roessler, Juergen Fassbender, Jeroen van den Brink, Denis Sheka. _Chiral effects in curvilinear 1D antiferromagnets_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
+P. 07nmm-15.
+1. Ihor Veremchuk, Maciej Oskar Liedke, Pavlo Makushko, Tobias Kosub, Natascha Hedrich, **Oleksandr V. Pylypovskyi**, Fabian Ganss, Maik Butterling, René Hübner, Eric Hirschmann, Ahmed Attallah, Andreas Wagner, Kai Wagner, Brendan Shields, Patrick Maletinsky, Juergen Fassbender, Denys Makarov. _Defect nanostructure and its impact on magnetism of &alpha;-Cr<sub>2</sub>O<sub>3</sub> thin films_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
+P. 03mtfc-21.
 1. Yelyzaveta A. Borysenko, Denis D. Sheka, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**. _Effects of static magnetic fields in antiferromagnetic ring-shaped spin chains_, DPG Meeting of the Condensed Matter Section: Magnetism Division (Book of Abstracts), P. 12, 2022.
 1. **Oleksandr V. Pylypovskyi**. _Three-dimensional antiferromagnetic architectures_, META 2022 Torremolinos - Spain. The 12th International Conference on Metamaterials, Photonic Crystals and Plasmonics. P. 420.
 1. **Oleksandr V. Pylypovskyi**. _Curvilinear antiferromagnets for spintronics applications_. The 22nd IEEE International Conference on Nanotechnology 4-8 July 2022, Palma de Mallorca, Spain. P. 83.
-1. Yelyzaveta A. Borysenko and Denis D. Sheka and Jürgen Fassbender and Jeroen van den Brink and Denys Makarov, **Oleksandr V. Pylypovskyi**. _Antiferromagnetic ring-shaped spin chains exposed by static magnetic field_, UKRAPRO Workshop: Condensed matter science assisted by machine learning, 2022.
+1. Yelyzaveta A. Borysenko, Denis D. Sheka, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**. _Antiferromagnetic ring-shaped spin chains exposed by static magnetic field_, UKRAPRO Workshop: Condensed matter science assisted by machine learning, 2022.
 1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Kai Wagner, Artem Tomilo, Brendan J. Shields, Tobias Kosub, Denis D. Sheka, Juergen Fassbender, Patrick Maletisnky, Denys Makarov. _Noncollinear antiferromagnetic textures in confined geometries_, MMM Intermag 2022, P. 59--60 (2022)
 1. **Oleksandr V. Pylypovskyi**. _Exchange and anisotropy-driven effects in antiferromagnetic spin chains_, Yuri Gaididei Memorial Workshop 2-3 February 2022 (Online event), P. 14 (2022)
 
