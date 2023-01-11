@@ -1,5 +1,28 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. Yelyzaveta A. Borysenko1,Denis D. Sheka, Kostiantyn V.
+Yershov, Jürgen Fassbender, Jeroen van den Brink, Denys
+Makarov, **Oleksandr V. Pylypovskyi**. _Magnetic field-induced textures and phase transitions in antiferromagnetic spin chains: geometry-induced effects._ [776. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/re-thinking-spintronics-from-unconventional-materials-to-novel-technologies/main/) "Re-thinking Spintronics: From Unconventional Materials to Novel Technologies", 4-6 January 2023, Bad Honnef, Germany, P. 45.
+1. Paul Lehmann, Kai Wagner, **Oleksandr V. Pylypovskyi**, Sophie
+Weber, Natascha Hedrich, Pavlo Makushko, Brendan J. Shields,
+Tobias Kosub, Ihor Veremchuk, Denis D. Sheka, Nicola Spaldin,
+Denys Makarov, Patrick Maletinsky. _Surface magnetization of Cr<sub>2</sub>O<sub>3</sub> (104) quantified via
+scanning NV magnetometry._ [776. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/re-thinking-spintronics-from-unconventional-materials-to-novel-technologies/main/)  "Re-thinking Spintronics: From Unconventional Materials to Novel Technologies", 4-6 January 2023, Bad Honnef, Germany, P. 58.
+1. P. Makushko, T. Kosub, **O. V. Pylypovskyi**, N. Hedrich, J. Li,
+A. Pashkin, S. Avdoshenko, R. Hübner, F. Ganss, D. Wolf,
+A. Lubk, M.O. Liedke, M. Butterling, A. Wagner, K. Wagner,
+B.J. Shields , P. Lehmann, I. Veremchuk, J. Fassbender,
+P. Maletinsky, D. Makarov. _Flexomagnetism and vertically graded Néel temperature of antiferromagnetic Cr<sub>2</sub>O<sub>3</sub> thin films._ [776. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/re-thinking-spintronics-from-unconventional-materials-to-novel-technologies/main/)  "Re-thinking Spintronics: From Unconventional Materials to Novel Technologies", 4-6 January 2023, Bad Honnef, Germany, P. 60.
+1. Igor Veremchuk, Maciej Oskar Liedke, Pavlo Makushko, Tobias
+Kosub, Natascha Hedrich, **Oleksandr V. Pylypovskyi**, Fabian
+Ganss, Maik Butterling, René Hübner, Eric Hirschmann, Ahmed
+G. Attallah, Andreas Wagner, Kai Wagner, Brendan Shields,
+Patrick Maletinsky, Jürgen Fassbender, Denys Makarov. _Defect nanostructure and its impact on magnetism of α-Cr<sub>2</sub>O<sub>3</sub> thin films._ [776. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/re-thinking-spintronics-from-unconventional-materials-to-novel-technologies/main/)  "Re-thinking Spintronics: From Unconventional Materials to Novel Technologies", 4-6 January 2023, Bad Honnef, Germany, P. 79.
+1. Yevhen Zabila, P. Makushko, S. Oliveros Mata, S. Cañón Bermudez, M. Hassan, G. Barucca, S. Laureti, C. Rinaldi, F. Fagiani, N. Schmidt, T. Kosub, R. Illing, O. Volkov, I. Vladymyrskyi, J. Fassbender, M. Albrecht, G. Varvaro, M. Ha, I. Monch, Y. Wang, R. Xu, **O. V. Pylypovskyi**, P. Milkin, L. Ionov, D. Makarov. _Flexible and printed magnetic field sensors._ [776. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/re-thinking-spintronics-from-unconventional-materials-to-novel-technologies/main/)  "Re-thinking Spintronics: From Unconventional Materials to Novel Technologies", 4-6 January 2023, Bad Honnef, Germany, P. 84.
+
+
+    **2022**
+
 1. Oleksii Volkov, **Oleksandr V. Pylypovskyi**, Florian Kronast, Claas Abert, Eduardo Sergio Oliveros Mata, Pavlo Makushko, Mohamad-Assaad Mawass, Volodymyr Kravchuk, Denis Sheka, Juergen Fassbender, Denys Makarov. _Dzyaloshinskii-Moriya interaction and domain wall damping in ultrathin nanostripes_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
 P. 07nmm-17.
 1. **Oleksandr V. Pylypovskyi**, Oleksii Volkov, Denis Sheka, Attila Kakay, Volodymyr Kravchuk, Pedro Landeros, Florian Kronast, Ingolf Moench, Mohamad-Assaad Mawass, Avadh Saxena, Juergen Fassbender, Denys Makarov. _Curvature-induced local & nonlocal chiral effects in curvilinear ferromagnetic shells and wires_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
