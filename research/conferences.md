@@ -1,6 +1,10 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
-1. Yelyzaveta A. Borysenko1,Denis D. Sheka, Kostiantyn V.
+1. **Oleksandr V. Pylypovskyi**. _Geometry-driven effects in curvilinear spin chains with antiferromagnetic exchange_. 4th IEEE International Conference on Advances in Magnetics, [IEEE AIM 2023](https://www.aim2023.com/). 15-18 January 2023, Moena, Italy, P. 133.
+1. Jose A. Fernandez-Roldan, S. Shakeel, M. Quintana, O. Volkov, **O. Pylypovskyi**, E. S. Oliveros-Mata, F. Kronast, M.-A. Mawass, D. Erb, D. Makarov. _Curvature-induced tilt and pinning in CrOx/Co/Pt corrugated strips_. 4th IEEE International Conference on Advances in Magnetics, [IEEE AIM 2023](https://www.aim2023.com/). 15-18 January 2023, Moena, Italy, P. 135.
+1. Oleksii M. Volkov, Daniel Wolf, **Oleksandr V. Pylypovskyi**, Attila Kákay, Denis D. Sheka, Bernd Büchner, Jürgen Fassbender, Axel Lubk, Denys Makarov. _Non-local chirality breaking in curvilinear nanoarchitectures_. 4th IEEE International Conference on Advances in Magnetics, [IEEE AIM 2023](https://www.aim2023.com/). 15-18 January 2023, Moena, Italy, P. 137.
+1. Yelyzaveta A. Borysenko, Denis D. Sheka, Kostiantyn V. Yershov, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**. _Antiferromagnetic spin chains: ground states and phase transitions in static magnetic field of arbitrary direction._ 4th IEEE International Conference on Advances in Magnetics, [IEEE AIM 2023](https://www.aim2023.com/). 15-18 January 2023, Moena, Italy, P. 140.
+1. Yelyzaveta A. Borysenko, Denis D. Sheka, Kostiantyn V.
 Yershov, Jürgen Fassbender, Jeroen van den Brink, Denys
 Makarov, **Oleksandr V. Pylypovskyi**. _Magnetic field-induced textures and phase transitions in antiferromagnetic spin chains: geometry-induced effects._ [776. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/re-thinking-spintronics-from-unconventional-materials-to-novel-technologies/main/) "Re-thinking Spintronics: From Unconventional Materials to Novel Technologies", 4-6 January 2023, Bad Honnef, Germany, P. 45.
 1. Paul Lehmann, Kai Wagner, **Oleksandr V. Pylypovskyi**, Sophie
