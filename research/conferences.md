@@ -27,6 +27,9 @@ Patrick Maletinsky, Jürgen Fassbender, Denys Makarov. _Defect nanostructure and
 
     **2022**
 
+1. K. Wagner, P. Lehmann, **O. Pylypovskyi**, N. Hedrich, P. Makushko and B. Shields, T. Kosub, D. D. Sheka, D. Makarov, P. Maletinsky. _Nanoscale studies of antiferromagnetic spin-textures_. MMM 2022 Conference, Minneapolis, October 31 - November 4, 2022 P. 13.
+1. O.M. Volkov, I.A. Yastremsky, **O. Pylypovskyi**, F. Kronast, C. Abert, E. Oliveros Mata, P. Makushko, M. Mawass, V.P. Kravchuk, D.D. Sheka, B.A. Ivanov, J. Fassbender, D. Makarov. _Quantification of Micromagnetic Parameters in Ultrathin Asymmetrically Sandwiched Magnetic Thin Films_. MMM 2022 Conference, Minneapolis, October 31 - November 4, 2022 P. 393.
+1. O.M. Volkov, **O. Pylypovskyi**, A. Kakay, V.P. Kravchuk, D.D. Sheka, J. Fassbender, D. Makarov. _Local and Nonlocal Curvature-induced Chiral Effects in Nanomagnetism_. MMM 2022 Conference, Minneapolis, October 31 - November 4, 2022 P. 409.
 1. Oleksii Volkov, **Oleksandr V. Pylypovskyi**, Florian Kronast, Claas Abert, Eduardo Sergio Oliveros Mata, Pavlo Makushko, Mohamad-Assaad Mawass, Volodymyr Kravchuk, Denis Sheka, Juergen Fassbender, Denys Makarov. _Dzyaloshinskii-Moriya interaction and domain wall damping in ultrathin nanostripes_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
 P. 07nmm-17.
 1. **Oleksandr V. Pylypovskyi**, Oleksii Volkov, Denis Sheka, Attila Kakay, Volodymyr Kravchuk, Pedro Landeros, Florian Kronast, Ingolf Moench, Mohamad-Assaad Mawass, Avadh Saxena, Juergen Fassbender, Denys Makarov. _Curvature-induced local & nonlocal chiral effects in curvilinear ferromagnetic shells and wires_, IEEE 12th International Conference ``Nanomaterials: Applications & Properties'' Kraków, Poland, Sept. 11-16, 2022
