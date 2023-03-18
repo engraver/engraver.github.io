@@ -1,5 +1,12 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. Oleksii M. Volkov, Daniel Wolf, **Oleksandr V. Pylypovskyi**, Attila Kákay, Denis D. Sheka, Bernd Büchner, Jürgen Fassbender, Axel Lubk, Denys Makarov.<br>
+_Chirality coupling in topological magnetic textures with multiple magnetochiral parameters_,
+Nature Communications, 14, 1491 (2023)
+
+
+**2022**
+
 1. Yelyzaveta A. Borysenko, Denis D. Sheka, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**.<br> _Field-induced spin reorientation transitions in antiferromagnetic ring-shaped spin chains_,<br> Phys. Rev. B 106, 174426 (2022) DOI:[10.1103/PhysRevB.106.174426](https://doi.org/10.1103/PhysRevB.106.174426)
 1. Pavlo Makushko, Tobias Kosub, **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Jiang Li, Alexej Pashkin, Stanislav Avdoshenko, René Hübner, Fabian Ganss, Daniel Wolf, Axel Lubk, Maciej Oskar Liedke, Maik Butterling, Andreas Wagner, Kai Wagner, Brendan J. Shields, Paul Lehmann, Igor Veremchuk, Jürgen Fassbender, Patrick Maletinsky, Denys Makarov.<br> _Flexomagnetism and vertically graded Néel temperature of antiferromagnetic Cr<sub>2</sub>O<sub>3</sub> thin films_,
 Nature Communications, 13, 6745 (2022) DOI:[10.1038/s41467-022-34233-5](https://doi.org/10.1038/s41467-022-34233-5)
