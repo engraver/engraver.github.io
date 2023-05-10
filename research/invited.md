@@ -1,3 +1,4 @@
+1. O. V. Pylypovskyi. _Local and nonlocal effects of geometry in curvilinear magnetic nanoarchitectures._ 8th International conference on superconductivity and magnetism, 4-11 May 2023, Turkey.
 1. O. V. Pylypovskyi. _Magnetic soft robots from macro- to nanoscale._ IFW Workshop "Bio Meets Magnetism", Dresden, Germany.
 1. O. V. Pylypovskyi. _Three-dimensional antiferromagnetic architectures._ META 2022 Torremolinos - Spain. The 12th International Conference on Metamaterials, Photonic Crystals and Plasmonics. P. 420.
 1. O. V. Pylypovskyi. _Curvilinear antiferromagnets for spintronics applications_. The 22nd IEEE International Conference on Nanotechnology 4-8 July 2022, Palma de Mallorca, Spain. P. 83.
