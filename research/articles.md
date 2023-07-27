@@ -7,8 +7,7 @@ Physical Review Applied, 20, 014020 (2023) DOI:[10.1103/PhysRevApplied.20.014020
 _Chirality coupling in topological magnetic textures with multiple magnetochiral parameters_,
 Nature Communications, 14, 1491 (2023) DOI:[10.1038/s41467-023-37081-z](https://doi.org/10.1038/s41467-023-37081-z)
 
-
-**2022**
+    **2022**
 
 1. Yelyzaveta A. Borysenko, Denis D. Sheka, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**.<br> _Field-induced spin reorientation transitions in antiferromagnetic ring-shaped spin chains_,<br> Phys. Rev. B 106, 174426 (2022) DOI:[10.1103/PhysRevB.106.174426](https://doi.org/10.1103/PhysRevB.106.174426)
 1. Pavlo Makushko, Tobias Kosub, **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Jiang Li, Alexej Pashkin, Stanislav Avdoshenko, René Hübner, Fabian Ganss, Daniel Wolf, Axel Lubk, Maciej Oskar Liedke, Maik Butterling, Andreas Wagner, Kai Wagner, Brendan J. Shields, Paul Lehmann, Igor Veremchuk, Jürgen Fassbender, Patrick Maletinsky, Denys Makarov.<br> _Flexomagnetism and vertically graded Néel temperature of antiferromagnetic Cr<sub>2</sub>O<sub>3</sub> thin films_,
