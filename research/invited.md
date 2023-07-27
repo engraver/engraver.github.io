@@ -1,3 +1,4 @@
+1. O. V. Pylypovskyi. _Strain-gradient-driven and magnetoelectric operation with order parameters in Cr<sub>2</sub>O<sub>3</sub>._ [META 2023](https://metaconferences.org/META23/index.php/META/proceeding), July 18-21 2023, Paris, France, P. 501.
 1. O. V. Pylypovskyi. _Magnetic domains and flexomagnetism in Cr<sub>2</sub>O<sub>3</sub>._ Intermag 2023, 15-18 May 2023, Sendai, Japan.
 1. O. V. Pylypovskyi. _Local and nonlocal effects of geometry in curvilinear magnetic nanoarchitectures._ 8th International conference on superconductivity and magnetism, 4-11 May 2023, Turkey.
 1. O. V. Pylypovskyi. _Magnetic soft robots from macro- to nanoscale._ IFW Workshop "Bio Meets Magnetism", Dresden, Germany.

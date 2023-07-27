@@ -1,8 +1,11 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner, Rene Hübner, Brendand Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky, Denys Makarov.<br>
+_Interaction of Domain Walls with Grain Boundaries in Uniaxial Insulating Antiferromagnets_,
+Physical Review Applied, 20, 014020 (2023) DOI:[10.1103/PhysRevApplied.20.014020](http://dx.doi.org/10.1103/PhysRevApplied.20.014020) (**_Editors’ Suggestion_**)
 1. Oleksii M. Volkov, Daniel Wolf, **Oleksandr V. Pylypovskyi**, Attila Kákay, Denis D. Sheka, Bernd Büchner, Jürgen Fassbender, Axel Lubk, Denys Makarov.<br>
 _Chirality coupling in topological magnetic textures with multiple magnetochiral parameters_,
-Nature Communications, 14, 1491 (2023)
+Nature Communications, 14, 1491 (2023) DOI:[10.1038/s41467-023-37081-z](https://doi.org/10.1038/s41467-023-37081-z)
 
 
 **2022**
