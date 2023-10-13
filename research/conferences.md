@@ -1,5 +1,7 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. Yelyzaveta A. Borysenko, Denis D. Sheka, Kostiantyn V. Yershov, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**. _Curvilinear Antiferromagnetic Spin Chains: Interplay Between Geometry And External Magnetic Field._ [IEEE NAP 2023](https://submission.ieeenap.org/site/submission.html?id=0598), Bratislava, Slovakia, Sep. 10-15, 2023.
+1. **Oleksandr V. Pylypovskyi**. _Nanomagnetism and Strain Effects in Magnetoelectric Antiferromagnet Cr<sub>2</sub>O<sub>3</sub>._ [IEEE NAP 2023](https://submission.ieeenap.org/site/submission.html?id=0551), Bratislava, Slovakia, Sep. 10-15, 2023.
 1. **Oleksandr V. Pylypovskyi**. _Strain-gradient-driven and magnetoelectric operation with order parameters in Cr<sub>2</sub>O<sub>3</sub>._ [META 2023](https://metaconferences.org/META23/index.php/META/proceeding), July 18-21 2023, Paris, France, P. 501.
 1. **Oleksandr V. Pylypovskyi**. _Magnetoelectric and flexomagnetic phenomena in Cr<sub>2</sub>O<sub>3</sub>  for applications._ [iSIM 2023](https://theisim.org/files/isim2023-abstracts.pdf). May 14–15, 2023, Sendai, Japan.
 1. **Oleksandr V. Pylypovskyi**. _Magnetic domains and flexomagnetism in Cr<sub>2</sub>O<sub>3</sub>._ Intermag 2023, 15-18 May 2023, Sendai, Japan.
