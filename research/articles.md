@@ -1,5 +1,8 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, Denys Makarov.<br>
+_Surface-symmetry-driven Dzyaloshinskii-Moriya interaction and canted ferrimagnetism in collinear magnetoelectric antiferromagnet Cr<sub>2</sub>O<sub>3</sub>_, 
+ArXiv:[2310.13438](https://arxiv.org/abs/2310.13438)
 1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner, Rene Hübner, Brendand Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky, Denys Makarov.<br>
 _Interaction of Domain Walls with Grain Boundaries in Uniaxial Insulating Antiferromagnets_,
 Physical Review Applied, 20, 014020 (2023) DOI:[10.1103/PhysRevApplied.20.014020](http://dx.doi.org/10.1103/PhysRevApplied.20.014020) (**_Editors’ Suggestion_**)
