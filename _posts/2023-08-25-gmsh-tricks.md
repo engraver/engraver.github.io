@@ -28,3 +28,25 @@ For i In {0:9:2}
 EndFor
 ```
 Note that the last value in the loop will be 8! Indication of step also works for definition of arrays.
+
+## Access to the point coordinates
+```
+Point(10) = {314., 15., 926.};
+Printf("%g %g %g", Point{10}); // prints 314 15 926
+```
+Access to the particular coordinate:
+```
+Point(10) = {314., 15., 926.};
+g = Point{10};
+Printf("%g", g[1]); // prints 15
+```
+
+## Add background image
+
+```
+General.BackgroundImageFileName = 'background.png';
+General.BackgroundImagePositionX = 10;
+General.BackgroundImagePositionY = 10;
+General.BackgroundImageWidth = 1200;
+General.BackgroundImageHeight = 900;
+```
