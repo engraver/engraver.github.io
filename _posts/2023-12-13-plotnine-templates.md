@@ -23,7 +23,7 @@ from matplotlib import rc
 rc('text', usetex=True) # use tex fonts in labels
 ```
 
-Note that the LaTeX texts are exported as paths to svg. Thus, they are not editable as text and do not require font embedding, which could be as positive aspect as well as a drawback.
+Note that the LaTeX texts are exported as paths to svg. Thus, they are not editable as text and do not require font embedding, which could be as positive aspect as well as a drawback. To have them embedded, figure should be exported as PDF.
 
 ## Plotting a few lines in the same axes
 Say, we have two datasets saved in files `result_size_24.dat` and `result_size_58.dat` which are different by size of the sample analyzed. The first step is to create a joint dataset, where the column `size` will be used to distinguish the initial datasets:
