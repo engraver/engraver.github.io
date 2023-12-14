@@ -7,7 +7,9 @@ tags: python plotting svg
 Python package [`plotnine`](https://plotnine.readthedocs.io/) presents a ggplot2-based realization of the "Grammar of Graphics" with `matplotlib` background. Actively using LaTeX package [`pgfplots`](https://pgfplots.net/) for plottings, I found `plotnine` useful to do make drawings directly in Python with a reasonable convenience of previewing in Jupyter notebooks and exporting into png/svg (for further assembly in Inkscape).
 
 ## Resources
-- [https://r-graphics.org/](https://r-graphics.org/)
+
+- Textbook-like online manual: [https://r-graphics.org/](https://r-graphics.org/)
+- Reference on `ggplot` functions: [https://ggplot2.tidyverse.org/](https://ggplot2.tidyverse.org/)
 
 ## Preamble
 Typical preamble
