@@ -10,6 +10,9 @@ Python package [`plotnine`](https://plotnine.readthedocs.io/) presents a ggplot2
 
 - Textbook-like online manual: [https://r-graphics.org/](https://r-graphics.org/)
 - Reference on `ggplot` functions: [https://ggplot2.tidyverse.org/](https://ggplot2.tidyverse.org/)
+- Matplotlib colormaps: 
+	- [https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
+	- [https://pratiman-91.github.io/colormaps/](https://pratiman-91.github.io/colormaps/)
 
 ## Preamble
 Typical preamble
