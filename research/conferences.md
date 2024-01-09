@@ -1,5 +1,9 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner, René Hübner, Brendan Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky, Denys Makarov. _Flexible and printed magnetic field sensors._ [803. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/towards-functional-van-der-waals-magnets-by-unlocking-synergies-with-orbitronics-magnonics-altermagnetism-and-optics/main/)  "Towards Functional van der Waals magnets by Unlocking Synergies with Orbitronics, Magnonics, Altermagnetism, and Optics", 2-5 January 2024, Bad Honnef, Germany, P. 73.
+
+**2023** 
+
 1. Yelyzaveta A. Borysenko, Denis D. Sheka, Kostiantyn V. Yershov, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**. _Curvilinear Antiferromagnetic Spin Chains: Interplay Between Geometry And External Magnetic Field._ [IEEE NAP 2023](https://submission.ieeenap.org/site/submission.html?id=0598), Bratislava, Slovakia, Sep. 10-15, 2023.
 1. **Oleksandr V. Pylypovskyi**. _Nanomagnetism and Strain Effects in Magnetoelectric Antiferromagnet Cr<sub>2</sub>O<sub>3</sub>._ [IEEE NAP 2023](https://submission.ieeenap.org/site/submission.html?id=0551), Bratislava, Slovakia, Sep. 10-15, 2023.
 1. Makushko, Pavlo; **Oleksandr V. Pylypovskyi**; Kosub, Tobias; Hedrich, Natascha; Li, Jiang; Pashkin, Alexej; Avdoshenko, Stanislav; Hübner, Rene; Ganss, Fabian; Wolf, Daniel; Lubk, Axel; Liedke, Maciej Oskar; Butterling, Maik; Wagner, Andreas; Wagner, Kai; Shields, Brendan J.; Lehmann, Paul; Veremchuk, Igor; Fassbender, Jürgen; Maletinsky, Patrick; Makarov, Denys. _Flexomagnetism and vertically graded Neel temperature in the epitaxial Cr<sub>2</sub>O<sub>3</sub> thin films ._ [CMD30 FisMat2023](https://eventi.cnism.it/cmd30-fismat/submission/view/13660940791413576882),  Milano, Italy, September 4-8, 2023.
