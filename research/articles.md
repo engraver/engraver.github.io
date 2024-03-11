@@ -3,7 +3,7 @@
 
 1. Oleksii M. Volkov, **Oleksandr V. Pylypovskyi**, Fabrizio Porrati, Florian Kronast, Jose A. Fernandez-Roldan, Attila Kákay, Alexander Kuprava, Sven Barth, Filipp N. Rybakov, Olle Eriksson, Sebastian Lamb-Camarena, Pavlo Makushko, Mohamad-Assaad Mawass, Shahrukh Shakeel, Oleksandr V. Dobrovolskiy, Michael Huth, Denys Makarov.<br>
 _Three-dimensional magnetic nanotextures with high-order vorticity in soft magnetic wireframes_,
-Nature Communications, 15, 2193 (2024) DOI:[10.1038/10.1038/s41467-024-46403-8](https://doi.org/10.1038/10.1038/s41467-024-46403-8)
+Nature Communications, 15, 2193 (2024) DOI:[10.1038/s41467-024-46403-8](https://doi.org/10.1038/s41467-024-46403-8)
 
     **2023**
 
