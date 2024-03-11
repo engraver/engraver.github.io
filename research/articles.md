@@ -1,10 +1,11 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
-    **2023**
 
 1. Oleksii M. Volkov, **Oleksandr V. Pylypovskyi**, Fabrizio Porrati, Florian Kronast, Jose A. Fernandez-Roldan, Attila Kákay, Alexander Kuprava, Sven Barth, Filipp N. Rybakov, Olle Eriksson, Sebastian Lamb-Camarena, Pavlo Makushko, Mohamad-Assaad Mawass, Shahrukh Shakeel, Oleksandr V. Dobrovolskiy, Michael Huth, Denys Makarov.<br>
 _Three-dimensional magnetic nanotextures with high-order vorticity in soft magnetic wireframes_,
 Nature Communications, 15, 2193 (2024) DOI:[10.1038/10.1038/s41467-024-46403-8](https://doi.org/10.1038/10.1038/s41467-024-46403-8)
+
+    **2023**
 
 1. **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, Denys Makarov.<br>
 _Surface-symmetry-driven Dzyaloshinskii-Moriya interaction and canted ferrimagnetism in collinear magnetoelectric antiferromagnet Cr<sub>2</sub>O<sub>3</sub>_, 
