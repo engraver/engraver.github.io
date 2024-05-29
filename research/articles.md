@@ -1,5 +1,9 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, Denys Makarov.<br>
+_Surface-symmetry-driven Dzyaloshinskii-Moriya interaction and canted ferrimagnetism in collinear magnetoelectric antiferromagnet Cr<sub>2</sub>O<sub>3</sub>_, 
+Physical Review Letters, 132, 226702 (2024) DOI:[10.1103/physrevlett.132.226702](http://dx.doi.org/10.1103/physrevlett.132.226702), ArXiv:[2310.13438](https://arxiv.org/abs/2310.13438)
+(**_Editors’ Suggestion_, _Featured in Physics_**)
 1. Soosang Chae, Won Jin Choi, Lisa Julia Nebel, Chang Hee Cho, Quinn A. Besford, André Knapp, Pavlo Makushko, Yevhen Zabila, **Oleksandr Pylypovskyi**, Min Woo Jeong, Stanislav Avdoshenko, Oliver Sander, Denys Makarov, Yoon Jang Chung, Andreas Fery, Jin Young Oh, Tae Il Lee
 _Kinetically controlled metal-elastomer nanophases for environmentally resilient stretchable electronics_,
 Nature Communications, 15, 3071 (2024) DOI:[10.1038/s41467-024-47223-6](http://dx.doi.org/10.1038/s41467-024-47223-6)
@@ -9,12 +13,10 @@ Nature Communications, 15, 2193 (2024) DOI:[10.1038/s41467-024-46403-8](https://
 
     **2023**
 
-1. **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, Denys Makarov.<br>
-_Surface-symmetry-driven Dzyaloshinskii-Moriya interaction and canted ferrimagnetism in collinear magnetoelectric antiferromagnet Cr<sub>2</sub>O<sub>3</sub>_, 
-ArXiv:[2310.13438](https://arxiv.org/abs/2310.13438)
 1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner, Rene Hübner, Brendand Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky, Denys Makarov.<br>
 _Interaction of Domain Walls with Grain Boundaries in Uniaxial Insulating Antiferromagnets_,
-Physical Review Applied, 20, 014020 (2023) DOI:[10.1103/PhysRevApplied.20.014020](http://dx.doi.org/10.1103/PhysRevApplied.20.014020) (**_Editors’ Suggestion_**)
+Physical Review Applied, 20, 014020 (2023) DOI:[10.1103/PhysRevApplied.20.014020](http://dx.doi.org/10.1103/PhysRevApplied.20.014020) 
+(**_Editors’ Suggestion_**)
 1. Oleksii M. Volkov, Daniel Wolf, **Oleksandr V. Pylypovskyi**, Attila Kákay, Denis D. Sheka, Bernd Büchner, Jürgen Fassbender, Axel Lubk, Denys Makarov.<br>
 _Chirality coupling in topological magnetic textures with multiple magnetochiral parameters_,
 Nature Communications, 14, 1491 (2023) DOI:[10.1038/s41467-023-37081-z](https://doi.org/10.1038/s41467-023-37081-z)
