@@ -1,5 +1,12 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix, Denys Makarov.<br>
+_Manipulation by magnetic frustration in ferrotoroidal spin chains via curvature and torsion
+_,<br>
+ArXiv:[2408.17262](https://arxiv.org/abs/2408.17262)
+1. Peter Rickhaus, **Oleksandr V. Pylypovskyi**, Gediminas Seniutinas, Vicent Borras, Paul Lehmann, Kai Wagner, Liza &Zcaron;aper, Paulina J. Prusik, Pavlo Makushko, Igor Veremchuk, Tobias Kosub, René Hübner, Denis D. Sheka, Patrick Maletinsky, Denys Makarov.<br>
+_Antiferromagnetic Nanoscale Bit Arrays of Magnetoelectric Cr<sub>2</sub>O<sub>3</sub> Thin Films_,<br>
+Nano Letters, 24, 13172 (2024) DOI:[10.1021/acs.nanolett.4c03044](http://dx.doi.org/10.1021/acs.nanolett.4c03044) 
 1. **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, Denys Makarov.<br>
 _Surface-symmetry-driven Dzyaloshinskii-Moriya interaction and canted ferrimagnetism in collinear magnetoelectric antiferromagnet Cr<sub>2</sub>O<sub>3</sub>_, 
 Physical Review Letters, 132, 226702 (2024) DOI:[10.1103/physrevlett.132.226702](http://dx.doi.org/10.1103/physrevlett.132.226702), ArXiv:[2310.13438](https://arxiv.org/abs/2310.13438)
