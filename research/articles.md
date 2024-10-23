@@ -1,8 +1,7 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
 1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix, Denys Makarov.<br>
-_Manipulation by magnetic frustration in ferrotoroidal spin chains via curvature and torsion
-_,<br>
+_Manipulation by magnetic frustration in ferrotoroidal spin chains via curvature and torsion_,<br>
 ArXiv:[2408.17262](https://arxiv.org/abs/2408.17262)
 1. Peter Rickhaus, **Oleksandr V. Pylypovskyi**, Gediminas Seniutinas, Vicent Borras, Paul Lehmann, Kai Wagner, Liza &Zcaron;aper, Paulina J. Prusik, Pavlo Makushko, Igor Veremchuk, Tobias Kosub, René Hübner, Denis D. Sheka, Patrick Maletinsky, Denys Makarov.<br>
 _Antiferromagnetic Nanoscale Bit Arrays of Magnetoelectric Cr<sub>2</sub>O<sub>3</sub> Thin Films_,<br>
