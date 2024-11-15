@@ -1,5 +1,8 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. Mykola I. Sloika, Yuri Gaididei, Volodymyr P. Kravchuk, **Oleksandr V. Pylypovskyi**, Denys Makarov, Denis D. Sheka.<br>
+_Magnetic Vortex Dynamics on Spherical Cap_,<br>
+ArXiv:[2411.07329](https://arxiv.org/abs/2411.07329)
 1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix, Denys Makarov.<br>
 _Manipulation by magnetic frustration in ferrotoroidal spin chains via curvature and torsion_,<br>
 ArXiv:[2408.17262](https://arxiv.org/abs/2408.17262)
