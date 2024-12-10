@@ -1,8 +1,11 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. Muhammad Bilal Khan, Kilian Schäfer, Florian Hofmann, Matthias Lutzi, Eduardo Sergio Oliveros-Mata, **Oleksandr Pylypovskyi**, Denys Makarov, Oliver Gutfleisch.<br>
+_Bioinspired Design, Fabrication, and Wing Morphing of 3D-Printed Magnetic Butterflies_
+Advanced Intelligent Systems, P. 2400620 (2024) DOI:[10.1002/aisy.202400620](http://dx.doi.org/10.1002/aisy.202400620)
 1. Olha Bezsmertna, Rui Xu, **Oleksandr Pylypovskyi**, David Raftrey, Andrea Sorrentino, Jose Angel Fernandez-Roldan, Ivan Soldatov, Daniel Wolf, Axel Lubk, Rudolf Schäfer, Peter Fischer, Denys Makarov.<br>
 _Magnetic Solitons in Hierarchical 3D Magnetic Nanoarchitectures of Nanoflower Shape_
-Nano Letters (2024) DOI:[10.1021/acs.nanolett.4c04584](http://dx.doi.org/10.1021/acs.nanolett.4c04584 )
+Nano Letters (2024) DOI:[10.1021/acs.nanolett.4c04584](http://dx.doi.org/10.1021/acs.nanolett.4c04584)
 1. Mykola I. Sloika, Yuri Gaididei, Volodymyr P. Kravchuk, **Oleksandr V. Pylypovskyi**, Denys Makarov, Denis D. Sheka.<br>
 _Magnetic Vortex Dynamics on Spherical Cap_,<br>
 ArXiv:[2411.07329](https://arxiv.org/abs/2411.07329)
