@@ -1,17 +1,21 @@
 <div style="margin-left:30px;font-weight:bold">This year</div>
 
+1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix, Denys Makarov.<br>
+_Manipulation by magnetic frustration in ferrotoroidal spin chains via curvature and torsion_,<br>
+Physical Review Research, 7, P. 013088 (2025) DOI:[10.1103/physrevresearch.7.013088](https://doi.org/10.1103/physrevresearch.7.013088), ArXiv:[2408.17262](https://arxiv.org/abs/2408.17262)
+
+
+    **2024**
+
 1. Muhammad Bilal Khan, Kilian Schäfer, Florian Hofmann, Matthias Lutzi, Eduardo Sergio Oliveros-Mata, **Oleksandr Pylypovskyi**, Denys Makarov, Oliver Gutfleisch.<br>
-_Bioinspired Design, Fabrication, and Wing Morphing of 3D-Printed Magnetic Butterflies_
+_Bioinspired Design, Fabrication, and Wing Morphing of 3D-Printed Magnetic Butterflies_,<br>
 Advanced Intelligent Systems, P. 2400620 (2024) DOI:[10.1002/aisy.202400620](http://dx.doi.org/10.1002/aisy.202400620)
 1. Olha Bezsmertna, Rui Xu, **Oleksandr Pylypovskyi**, David Raftrey, Andrea Sorrentino, Jose Angel Fernandez-Roldan, Ivan Soldatov, Daniel Wolf, Axel Lubk, Rudolf Schäfer, Peter Fischer, Denys Makarov.<br>
-_Magnetic Solitons in Hierarchical 3D Magnetic Nanoarchitectures of Nanoflower Shape_
+_Magnetic Solitons in Hierarchical 3D Magnetic Nanoarchitectures of Nanoflower Shape_,<br>
 Nano Letters, 24, 15774 (2024) DOI:[10.1021/acs.nanolett.4c04584](http://dx.doi.org/10.1021/acs.nanolett.4c04584)
 1. Mykola I. Sloika, Yuri Gaididei, Volodymyr P. Kravchuk, **Oleksandr V. Pylypovskyi**, Denys Makarov, Denis D. Sheka.<br>
 _Magnetic Vortex Dynamics on Spherical Cap_,<br>
 ArXiv:[2411.07329](https://arxiv.org/abs/2411.07329)
-1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix, Denys Makarov.<br>
-_Manipulation by magnetic frustration in ferrotoroidal spin chains via curvature and torsion_,<br>
-ArXiv:[2408.17262](https://arxiv.org/abs/2408.17262)
 1. Peter Rickhaus, **Oleksandr V. Pylypovskyi**, Gediminas Seniutinas, Vicent Borras, Paul Lehmann, Kai Wagner, Liza Zaper, Paulina J. Prusik, Pavlo Makushko, Igor Veremchuk, Tobias Kosub, René Hübner, Denis D. Sheka, Patrick Maletinsky, Denys Makarov.<br>
 _Antiferromagnetic Nanoscale Bit Arrays of Magnetoelectric Cr<sub>2</sub>O<sub>3</sub> Thin Films_,<br>
 Nano Letters, 24, 13172 (2024) DOI:[10.1021/acs.nanolett.4c03044](http://dx.doi.org/10.1021/acs.nanolett.4c03044) 
