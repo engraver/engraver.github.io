@@ -66,13 +66,35 @@ P. S. Still I do not undestand why Insynk does not work with the default Wayland
 
 Usefull stuff I always install last:
 ```bash
-sudo dnf install geany
+sudo dnf install geany gimp inkscape yakuake ipython
+sudo dnf install flexiblas-openblas-threads # needed by gimp
 sudo dnf install @development-tools
-sudo dnf install texlive-scheme-full texstudio 
+sudo dnf install gitk texlive-scheme-full texstudio 
+sudo dnf install hplip hplip-gui # for HP printers
+sudo dnf install libxcrypt-compat # for paraview
 ```
 
+[Snap repos](https://snapcraft.io/docs/installing-snap-on-fedora):
+```bash
+sudo dnf install snapd
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install obsidian --classic
+sudo snap install spotify
+sudo snap install mattermost-desktop --classic
+sudo snap install krita
+```
 
+[Flatpack repos](https://flatpak.org/setup/Fedora):
+```bash
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+flatpak install com.anydesk.Anydesk
+```
 
+Mamba environment:
+```bash
+sudo dnf install micromamba
+```
+Here, we should remove default conda channels to keep the community-based channels only using [these instructions](https://mamba.readthedocs.io/en/latest/user_guide/troubleshooting.html#defaults-channels).
 
 
 
