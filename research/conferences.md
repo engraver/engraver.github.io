@@ -1,4 +1,14 @@
-<div style="margin-left:30px;font-weight:bold">This year</div>
+<!--div style="margin-left:30px;font-weight:bold">This year</div -->
+**2025**
+
+1.  **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin and Denys Makarov. )Modification of magnetic properties via the surface magnetic symmetry in antiferromagnets._ [AIM 2025](https://www.aim2025.it/), Bressanone/Brixen, Italy, February 9–12 2025, P. 286
+1. Paulina J. Prusik, Igor Veremchuk, Florin Radu, Andrey N. Anisimov, Pavlo Makushko, Georgy V. Astakhov, René Hübner, Kirill D. Belashchenko, Jürgen Fassbender, Denys Makarov and **Oleksandr V. Pylypovskyi**. _Domain wall properties, surface states and spin-flop transition in Cr<sub>2</sub>O<sub>3</sub>._ [AIM 2025](https://www.aim2025.it/), Bressanone/Brixen, Italy, February 9–12 2025, P. 44
+1. K. Wagner, P. Lehmann, **O. Pylypovskyi**, P. Makushko, T. Kosub, D. D. Sheka and D. Makarov and P. Maletinsky. _Nanoscale studies of intrinsic surface magnetism and spin-texture manipulation in a magneto-electric antiferromagnet._ [AIM 2025](https://www.aim2025.it/), Bressanone/Brixen, Italy, February 9–12 2025, P. 47
+1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix and Denys Makarov. _Magnetic textures in curvilinear spin chains of constant torsion._ [AIM 2025](https://www.aim2025.it/), Bressanone/Brixen, Italy, February 9–12 2025, P. 188
+1. Olha Bezsmertna, Rui Xu, **Oleksandr Pylypovskyi**, David Raftrey, Andrea Sorrentino, Jose Ángel Fernández-Roldán, Ivan Soldatov, Daniel Wolf, Axel Lubk, Rudolf Schäfer, Peter Fischer and Denys Makarov. _Magnetic solitons in hierarchical 3D magnetic nanoflower shaped architectures._ [AIM 2025](https://www.aim2025.it/), Bressanone/Brixen, Italy, February 9–12 2025, P. 192
+
+
+**2024**
 
 1. **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, Denys Makarov. _Surface-symmetry-driven Dzyaloshinskii-Moriya interaction in collinear antiferromagnets._ [CMD 31 conference](https://api.sci-meet.com/client/events/135/publications/12728/files/16994/download?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5zY2ktbWVldC5jb20vb3JnYW5pemVyL2V2ZW50cy8xMzUvcHVibGljYXRpb25zL2V4cG9ydCIsImlhdCI6MTcyNDc2ODYzNSwiZXhwIjoxOTQwNzY4NjM1LCJuYmYiOjE3MjQ3Njg2MzUsImp0aSI6IjNrMERqbUpPYmhQenB2MXciLCJzdWIiOiIyIiwicHJ2IjoiMzc4N2ZiYTE2MThhOTMwNTI2YWNhNmM4YmI5YjQ0YjgzZjI5NzcyNiIsInB1YmxpY2F0aW9uX2ZpbGVfaWQiOjE2OTk0LCJ1c2VyX2lkIjoxNzUzNn0.2mq4eP6GKnkaqyKSOD07zdFYciopRhAsEKEKh0yjRGg), Septebmer 1-6, 2024, Braga, Portugal, P. 12728.
 1. Oleksandr V. Pylypovskyi. _Chiral and non-chiral magnetic texturing in antiferromagnetic Cr<sub>2</sub>O<sub>3</sub>._ [META 2024](https://metaconferences.org/META24/index.php/META/index), July 16-19 2024, Toyama, Japan, P. 543.
