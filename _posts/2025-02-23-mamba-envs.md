@@ -4,7 +4,20 @@ title:  "Setting mamba environments"
 tags: linux development
 ---
 
-== SLaSi, CPU version ==
+## General jupyter environment
+
+```bash
+mamba create --name 'myenv'
+mamba activate myenv
+mamba install jupyter
+mamba install matplotlib numpy scipy meshio
+mamba install -c conda-forge ipympl
+mamba install jupyter_contrib_nbextensions
+jupyter nbextension enable ipympl --py --sys-prefix
+jupyter nbextension install --py --sys-prefix --overwrite ipympl
+``` 
+
+## SLaSi, CPU version
 
 Prerequisites:
 ```bash
@@ -30,7 +43,7 @@ cmake ../slasi -DPARALLEL=MPI && make -j4
 ```
 
 
-== SLaSi, GPU version ==
+## SLaSi, GPU version
 
 Prerequisites:
 ```bash
