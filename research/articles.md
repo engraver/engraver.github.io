@@ -1,4 +1,6 @@
-    **2025**
+# Research manuscripts
+
+**2025**
 
 1. Mykola I. Sloika, Yuri Gaididei, Volodymyr P. Kravchuk, **Oleksandr V. Pylypovskyi**, Denys Makarov, Denis D. Sheka.<br>
 _Magnetic Vortex Dynamics on Spherical Cap_,<br>

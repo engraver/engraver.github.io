@@ -1,4 +1,7 @@
+# Conferences
+
 <!--div style="margin-left:30px;font-weight:bold">This year</div -->
+
 **2025**
 
 1. **Oleksandr V. Pylypovskyi**. Topological and ferrotoroidal magnetic textures in 3D nanoarchitectures. [ICSM ICQMT 2025](https://icsmforever.org/), 26 April – 3 May, 2025, Ölüdeniz-Fethiye, Türkiye, P. 200
