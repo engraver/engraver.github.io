@@ -1,5 +1,3 @@
-<!-- div style="margin-left:30px;font-weight:bold">This year</div -->
-
     **2025**
 
 1. Mykola I. Sloika, Yuri Gaididei, Volodymyr P. Kravchuk, **Oleksandr V. Pylypovskyi**, Denys Makarov, Denis D. Sheka.<br>
