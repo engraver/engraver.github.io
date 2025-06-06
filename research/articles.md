@@ -4,7 +4,7 @@
 
 1. Mykola I. Sloika, Yuri Gaididei, Volodymyr P. Kravchuk, **Oleksandr V. Pylypovskyi**, Denys Makarov, Denis D. Sheka.<br>
 _Magnetic Vortex Dynamics on Spherical Cap_,<br>
-Low Temperature Physics, 51, No. 6, P. 782 (2025), ArXiv:[2411.07329](https://arxiv.org/abs/2411.07329)
+Low Temperature Physics, 51, No. 6, P. 700 (2025), DOI:[10.1063/10.0036747](https://doi.org/10.1063/10.0036747), ArXiv:[2411.07329](https://arxiv.org/abs/2411.07329)
 1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix, Denys Makarov.<br>
 _Manipulation by magnetic frustration in ferrotoroidal spin chains via curvature and torsion_,<br>
 Physical Review Research, 7, P. 013088 (2025) DOI:[10.1103/physrevresearch.7.013088](https://doi.org/10.1103/physrevresearch.7.013088), ArXiv:[2408.17262](https://arxiv.org/abs/2408.17262)
