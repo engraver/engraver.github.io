@@ -4,7 +4,7 @@
 
 1. Rui Xu, Eduardo Sergio Oliveros Mata, Fei Cheng, **Oleksandr V. Pylypovskyi**, Qihao Zhang, Proloy Taran Das, Yevhen Zabila, Olha Bezsmertna, Jun Yang, Xiaotao Wang, Sebastian Lehmann, Lin Guo, René Hübner, Fabian Ganss, Ran He, Rico Illing, Kornelius Nielsch and Denys Makarov.<br>
 _Printed Conformal and Transparent Magnetoresistive Sensors for Seamless Integration and Environment-Resilient Touchless Interaction_,<br>
-ACS Nano (2025) DOI:[10.1021/acsnano.5c07664](https://doi.org/10.1021/acsnano.5c07664)
+ACS Nano, 19, P. 21891 (2025) DOI:[10.1021/acsnano.5c07664](https://doi.org/10.1021/acsnano.5c07664)
 1. Mykola I. Sloika, Yuri Gaididei, Volodymyr P. Kravchuk, **Oleksandr V. Pylypovskyi**, Denys Makarov, Denis D. Sheka.<br>
 _Magnetic Vortex Dynamics on Spherical Cap_,<br>
 Low Temperature Physics, 51, No. 6, P. 700 (2025), DOI:[10.1063/10.0036747](https://doi.org/10.1063/10.0036747), ArXiv:[2411.07329](https://arxiv.org/abs/2411.07329)
