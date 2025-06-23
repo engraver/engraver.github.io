@@ -4,7 +4,7 @@ title:  "Preparing Fedora for normal life"
 tags: linux fedora 
 ---
 
-== DNF update ==
+## DNF update
 
 At some point, the following story is relevant for a fresh Fedora install.
 
@@ -17,7 +17,7 @@ And reboot to be sure that everything works on a fresh system. Usefull stuff I a
 sudo dnf install vim mc 
 ```
 
-== NVidia drivers ==
+## NVidia drivers
 
 First, we need to [add third-party repositories](https://docs.fedoraproject.org/en-US/quick-docs/rpmfusion-setup/):
 ```bash
@@ -43,7 +43,7 @@ rpm -qa xorg-x11-drv-nvidia* *kmod-nvidia* nvidia-{settings,xconfig,modprobe,per
 And the same stuff with the kernel by adding the line `exclude=kernel*` to `/etc/dnf/dnf.conf`.
 
 
-== X11 instead of Wayland ==
+## X11 instead of Wayland
 
 X11 package is disabled by default in Fedora KDE, so we install it back:
 ```bash
@@ -62,7 +62,7 @@ Optionally, it may be needed to select Plasma (X11) desktop in the SDDM greeting
 P. S. Still I do not undestand why Insynk does not work with the default Wayland and requires X11 configuration to sync google drive accounts.
 
 
-== Final polishing ==
+## Final polishing
 
 Usefull stuff I always install last:
 ```bash
@@ -95,6 +95,8 @@ Mamba environment:
 sudo dnf install micromamba
 ```
 Here, we should remove default conda channels to keep the community-based channels only using [these instructions](https://mamba.readthedocs.io/en/latest/user_guide/troubleshooting.html#defaults-channels).
+
+Other stuff: insynk, onlyoffice, zoom...
 
 
 
