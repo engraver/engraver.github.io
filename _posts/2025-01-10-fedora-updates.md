@@ -96,7 +96,7 @@ sudo dnf install micromamba
 ```
 Here, we should remove default conda channels to keep the community-based channels only using [these instructions](https://mamba.readthedocs.io/en/latest/user_guide/troubleshooting.html#defaults-channels).
 
-Other stuff: insynk, onlyoffice, zoom...
+Other stuff: keepassxc, obsidian, insynk, onlyoffice, zoom...
 
 
 
