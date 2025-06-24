@@ -26,7 +26,7 @@ sudo kmodgenca -a
 sudo mokutil --import /etc/pki/akmods/certs/public_key.der 
 systemctl reboot 
 ```
-see details in the link above what to press in the menu appearing immediately after reboot.
+see details in the link about [secure boot](https://rpmfusion.org/Howto/Secure%20Boot) what to press in the menu appearing immediately after reboot.
 
 Second, one [installs NVidia drivers](https://rpmfusion.org/Howto/NVIDIA) from RPM Fusion repository:
 ```bash
