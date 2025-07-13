@@ -1,5 +1,6 @@
 ## Working experience
 
+* **Since 2024:** Editorial board member of [Communications Materials](https://www.nature.com/commsmat/), journal of Springer Nature family
 * **Since 2019:** Researcher @ Helmholtz-Zentrum Dresden-Rossendorf e.V., Intelligent materials and systems department (head: Dr. D. Makarov)
 * **Since 2020:** Researcher & lecturer @ Kyiv Academic University, Laboratory of superconducting quantum electronics (head: Dr. A. Shapovalov)
 
