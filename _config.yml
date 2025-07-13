@@ -17,8 +17,11 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: o.pylypovskyi/att/hzdr.de
-      link: mailto:o.pylypovskyi/att/hzdr.de
+      value: o.pylypovskyi&nbsp;α&nbsp;hzdr.de
+      link: mailto:o.pylypovskyi&nbsp;α&nbsp;hzdr.de
+    - name: Email
+      value: ovp.linkedin&nbsp;α&nbsp;gmail.com
+      link: mailto:ovp.linkedin&nbsp;α&nbsp;gmail.com
 #    - name: WeChat
 #      value: YourWeChatUsername
 #      link: "#"
