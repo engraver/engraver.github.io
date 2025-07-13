@@ -62,7 +62,10 @@ Optionally, it may be needed to select Plasma (X11) desktop in the SDDM greeting
 P. S. Still I do not undestand why Insynk does not work with the default Wayland and requires X11 configuration to sync google drive accounts.
 
 
+
 ## Final polishing
+
+### General
 
 Usefull stuff I always install last:
 ```bash
@@ -98,7 +101,13 @@ Here, we should remove default conda channels to keep the community-based channe
 
 Other stuff: keepassxc, obsidian, insynk, onlyoffice, zoom...
 
+```bash
+sudo dnf install hplip hplip-gui
+```
 
+### Development
 
-
+```bash
+sudo dnf install qt6-qtbase-devel qt6-qttools-devel qt-creator
+```
 
