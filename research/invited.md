@@ -1,6 +1,7 @@
 # Invited talks
 
-1. Oleksandr V. Pylypovskyi. Topological and ferrotoroidal magnetic textures in 3D nanoarchitectures. [ICSM ICQMT 2025](https://icsmforever.org/), 26 April – 3 May, 2025, Ölüdeniz-Fethiye, Türkiye, P. 200
+1. Oleksandr V. Pylypovskyi. _Topological And Geometric Effects In Magnetic Nanowires_, [META 2025](https://metaconferences.org/META25/files/meta25_proceedings.pdf), July 22-25, 2025, Torremolinos, Spain, P. 729
+1. Oleksandr V. Pylypovskyi. _Topological and ferrotoroidal magnetic textures in 3D nanoarchitectures._ [ICSM ICQMT 2025](https://icsmforever.org/), 26 April – 3 May, 2025, Ölüdeniz-Fethiye, Türkiye, P. 200
 1. Oleksandr V. Pylypovskyi. _Magnetic textures in easy-axis antiferromagnets._ WPI-SKCM2 Seminar in group of Prof. Inoue (Hiroshima University), July 25 2024, Higashihiroshima, Japan
 1. Oleksandr V. Pylypovskyi. _Magnetic textures in bulk and thin film Cr<sub>2</sub>O<sub>3</sub>._ Seminar in group of Prof. Shiratsuchi (Osaka University), July 22 2024, Osaka, Japan
 1. Oleksandr V. Pylypovskyi. _Chiral and non-chiral magnetic texturing in antiferromagnetic Cr<sub>2</sub>O<sub>3</sub>._ [META 2024](https://metaconferences.org/META24/index.php/META/index), July 16-19 2024, Toyama, Japan, P. 543.
