@@ -4,6 +4,8 @@
 
 **2025**
 
+1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix and and Denys Makarov. _Design of frustration and artificial ferrotoroidicity in curvilinear nanomagnets
+_. In: [5th Science Workshop of the Program MML](https://indico.kit.edu/event/5148/abstracts/3757/), Oct 20-22, 2025, Karlsruhe, Germany, P. 188
 1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix and and Denys Makarov. _Design of magnetic frustration and artificial ferrotoroidicity by geometry_. Swiss Nanomagnetism Summit. Zürich, Switzerland, 8-9 September, 2025, P. 37
 1. **Oleksandr V. Pylypovskyi**. _Topological And Geometric Effects In Magnetic Nanowires_. [META 2025](https://metaconferences.org/META25/files/meta25_proceedings.pdf), July 22-25, 2025, Torremolinos, Spain, P. 729
 1. **Oleksandr V. Pylypovskyi**. _Topological and ferrotoroidal magnetic textures in 3D nanoarchitectures_. [ICSM ICQMT 2025](https://icsmforever.org/), 26 April – 3 May, 2025, Ölüdeniz-Fethiye, Türkiye, P. 200
