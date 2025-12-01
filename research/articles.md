@@ -1,7 +1,12 @@
 # Research manuscripts
 
+(equal contribution)
+
 **2025**
 
+1. (Eduardo Sergio Oliveros-Mata, **Oleksandr V. Pylypovskyi**, Eleonora Raimondo), Rico Illing, Yevhen Zabila, Lin Guo, Guannan Mu, Mónica Navarro López, Xu Wang, Georgios Tzortzinis, Angelos Filippatos, Gilbert Santiago Cañón Bermúdez, Francesca Garesci, Giovanni Finocchio,  Denys Makarov.<br>
+_Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing_,<br>
+ArXiv:[2511.23215](https://arxiv.org/abs/2511.23215)
 1. Rui Xu, Eduardo Sergio Oliveros Mata, Fei Cheng, **Oleksandr V. Pylypovskyi**, Qihao Zhang, Proloy Taran Das, Yevhen Zabila, Olha Bezsmertna, Jun Yang, Xiaotao Wang, Sebastian Lehmann, Lin Guo, René Hübner, Fabian Ganss, Ran He, Rico Illing, Kornelius Nielsch and Denys Makarov.<br>
 _Printed Conformal and Transparent Magnetoresistive Sensors for Seamless Integration and Environment-Resilient Touchless Interaction_,<br>
 ACS Nano, 19, P. 21891 (2025) DOI:[10.1021/acsnano.5c07664](https://doi.org/10.1021/acsnano.5c07664)
@@ -68,7 +73,7 @@ Nature Communications, 13, 6745 (2022) DOI:[10.1038/s41467-022-34233-5](https://
 
 	**2020**
 
-1. **Oleksandr V. Pylypovskyi**, Denys Y. Kononenko, Kostiantyn V. Yershov, Ulrich K. Rößler, Artem Tomilo, Jürgen Faßbender, Jeroen van den Brink, Denys Makarov, Denis D. Sheka.<br> _Curvilinear one-dimensional antiferromagnets_,<br> Nano Letters 20, P. 8157-8162 (2020) DOI: [10.1021/acs.nanolett.0c03246](https://doi.org/10.1021/acs.nanolett.0c03246)
+1. (**Oleksandr V. Pylypovskyi**, Denys Y. Kononenko), Kostiantyn V. Yershov, Ulrich K. Rößler, Artem Tomilo, Jürgen Faßbender, Jeroen van den Brink, Denys Makarov, Denis D. Sheka.<br> _Curvilinear one-dimensional antiferromagnets_,<br> Nano Letters 20, P. 8157-8162 (2020) DOI: [10.1021/acs.nanolett.0c03246](https://doi.org/10.1021/acs.nanolett.0c03246)
 1. Denis D. Sheka, **Oleksandr V. Pylypovskyi**, Pedro Landeros, Yuri Gaididei, Attila Kakay, Denys Makarov.<br> _Nonlocal chiral symmetry breaking in curvilinear magnetic shells_,<br> Communications Physics 3, P. 128 (2020) DOI: [10.1038/s42005-020-0387-2](https://doi.org/10.1038/s42005-020-0387-2)
 1. **Oleksandr V. Pylypovskyi**, Volodymyr P. Kravchuk, Oleksii M. Volkov, Juergen Fassbender, Denis D. Sheka, Denys Makarov.<br> _Unidirectional tilt of domain walls in equilibrium in biaxial stripes with Dzyaloshinskii-Moriya interaction_,<br> Journal of Physics D 53, P. 395003 (2020) DOI: [10.1088/1361-6463/ab95bd](10.1088/1361-6463/ab95bd)
 
