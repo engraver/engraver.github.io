@@ -2,11 +2,12 @@
 
 (equal contribution)
 
-**2025**
-
+**2026**
 1. Gianluca Gubbiotti, Olha Bezsmertna, **Oleksandr V. Pylypovskyi**, Rui Xu, Stephane Chiroli, Fatih Zighem, Claudia Fernandez Gonzalez, Andrea Sorrentino, David Raftrey, Daniel Wolf, Axel Lubk, Peter Fischer, Damien Faurie, Denys Makarov.<br>
 _Curvilinear magnonic crystal based on 3D hierarchical nanotemplates_,<br>
-ArXiv: [2512.11663 ](https://arxiv.org/abs/2512.11663)
+Nano Letters (2026) DOI:[10.1021/acs.nanolett.5c06216](https://doi.org/10.1021/acs.nanolett.5c06216) ArXiv: [2512.11663 ](https://arxiv.org/abs/2512.11663)
+
+**2025**
 1. (Eduardo Sergio Oliveros-Mata, **Oleksandr V. Pylypovskyi**, Eleonora Raimondo), Rico Illing, Yevhen Zabila, Lin Guo, Guannan Mu, Mónica Navarro López, Xu Wang, Georgios Tzortzinis, Angelos Filippatos, Gilbert Santiago Cañón Bermúdez, Francesca Garesci, Giovanni Finocchio,  Denys Makarov.<br>
 _Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing_,<br>
 ArXiv:[2511.23215](https://arxiv.org/abs/2511.23215)

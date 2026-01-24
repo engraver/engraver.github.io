@@ -2,7 +2,7 @@
 
 <!--div style="margin-left:30px;font-weight:bold">This year</div -->
 **2026**
-1. **Oleksandr V. Pylypovskyi**, Erico Di Benedetto, Carmine Ortix, Denys Makarov. _Curvature-driven magnetic frustration and artificial ferrotoroidicity in nanomagnets_. [847. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/towards-functional-van-der-waals-magnets-by-unlocking-synergies-with-orbitronics-magnonics-altermagnetism-and-optics/main/)  "Spin Dynamics in Materials with Unconventional Symmetries", 6-9 January 2026, Bad Honnef, Germany, P. 65.
+1. **Oleksandr V. Pylypovskyi**, Erico Di Benedetto, Carmine Ortix, Denys Makarov. _Curvature-driven magnetic frustration and artificial ferrotoroidicity in nanomagnets_. [847. WE-Heraeus-Seminar](https://indico.we-heraeus-stiftung.de/event/28/)  "Spin Dynamics in Materials with Unconventional Symmetries", 6-9 January 2026, Bad Honnef, Germany, P. 65.
 
 **2025**
 
