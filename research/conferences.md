@@ -2,7 +2,13 @@
 
 <!--div style="margin-left:30px;font-weight:bold">This year</div -->
 **2026**
-1. **Oleksandr V. Pylypovskyi**, Erico Di Benedetto, Carmine Ortix, Denys Makarov. _Curvature-driven magnetic frustration and artificial ferrotoroidicity in nanomagnets_. [847. WE-Heraeus-Seminar](https://indico.we-heraeus-stiftung.de/event/28/)  "Spin Dynamics in Materials with Unconventional Symmetries", 6-9 January 2026, Bad Honnef, Germany, P. 65.
+1. Guannan Mu, Rui Xu, Proloy T. Das, Jan Schmidtpeter, Lin Guo, **Oleksandr V. Pylypovskyi**, Andreas Knüpfer, Rico Illing, Olha Bezsmertna and Denys Makarov
+. _Deep learning enabled wearable magnetoelectronics_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/7), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 49.5
+1. **Oleksandr V. Pylypovskyi**, Gaspare Varvaro, Davide Peddis, Priyanka Mishra, Carmine Autieri, Filipp N. Rybakov, Denis D. Sheka and Denys Makarov. _Magnetic solitons in spherical maghemite nanoshells_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/7), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 44.7
+1. Olha Bezsmertna, **Oleksandr V. Pylypovskyi**, Rui Xu, Mykola Vinnichenko, Andrea Sorrentino, Daniel Wolf, Axel Lubk, Peter Fischer and and Denys Makarov. _Transferred magnetic nanomembranes for curvilinear magnetism and spintronics_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/6), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 44.6
+1. Paulina J. Prusik, Igor Veremchuk, Florin Radu, Pavlo Makushko, Jürgen Fassbender, Kirill D. Belashchenko, Denys Makarov and **Oleksandr V. Pylypovskyi**. _Field-induced spin-reorientation transitions in collinear antiferromagnet Cr<sub>2</sub>O<sub>3</sub>_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/30/contribution/8), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 30.8
+1. Anuvrat Tripathi, Igor Veremchuk, **Oleksandr V. Pylypovskyi**, Pavlo Makushko  and Denys Makarov. _Impact of crystallographic cuts on the magnetoelectric switching of Cr<sub>2</sub>O<sub>3</sub>_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/7/contribution/20), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 7.20
+1. **Oleksandr V. Pylypovskyi**, Erico Di Benedetto, Carmine Ortix, Denys Makarov. _Curvature-driven magnetic frustration and artificial ferrotoroidicity in nanomagnets_. [847. WE-Heraeus-Seminar](https://indico.we-heraeus-stiftung.de/event/28/)  "Spin Dynamics in Materials with Unconventional Symmetries", 6-9 January 2026, Bad Honnef, Germany, P. 65
 
 **2025**
 
