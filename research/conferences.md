@@ -2,7 +2,7 @@
 
 <!--div style="margin-left:30px;font-weight:bold">This year</div -->
 
-    **2026**
+**2026**
 
 1. Guannan Mu, Rui Xu, Proloy T. Das, Jan Schmidtpeter, Lin Guo, **Oleksandr V. Pylypovskyi**, Andreas Knüpfer, Rico Illing, Olha Bezsmertna and Denys Makarov
 . _Deep learning enabled wearable magnetoelectronics_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/7), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 49.5
