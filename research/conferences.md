@@ -1,7 +1,9 @@
 # Conferences
 
 <!--div style="margin-left:30px;font-weight:bold">This year</div -->
-**2026**
+
+    **2026**
+
 1. Guannan Mu, Rui Xu, Proloy T. Das, Jan Schmidtpeter, Lin Guo, **Oleksandr V. Pylypovskyi**, Andreas Knüpfer, Rico Illing, Olha Bezsmertna and Denys Makarov
 . _Deep learning enabled wearable magnetoelectronics_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/7), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 49.5
 1. **Oleksandr V. Pylypovskyi**, Gaspare Varvaro, Davide Peddis, Priyanka Mishra, Carmine Autieri, Filipp N. Rybakov, Denis D. Sheka and Denys Makarov. _Magnetic solitons in spherical maghemite nanoshells_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/7), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 44.7
@@ -10,7 +12,8 @@
 1. Anuvrat Tripathi, Igor Veremchuk, **Oleksandr V. Pylypovskyi**, Pavlo Makushko  and Denys Makarov. _Impact of crystallographic cuts on the magnetoelectric switching of Cr<sub>2</sub>O<sub>3</sub>_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/7/contribution/20), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 7.20
 1. **Oleksandr V. Pylypovskyi**, Erico Di Benedetto, Carmine Ortix, Denys Makarov. _Curvature-driven magnetic frustration and artificial ferrotoroidicity in nanomagnets_. [847. WE-Heraeus-Seminar](https://indico.we-heraeus-stiftung.de/event/28/)  "Spin Dynamics in Materials with Unconventional Symmetries", 6-9 January 2026, Bad Honnef, Germany, P. 65
 
-**2025**
+
+    **2025**
 
 1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix and Denys Makarov. _Design of frustration and artificial ferrotoroidicity in curvilinear nanomagnets_. [5th Science Workshop of the Program MML](https://indico.kit.edu/event/5148/abstracts/3757/), Oct 20-22, 2025, Karlsruhe, Germany, P. 188
 1. **Oleksandr V. Pylypovskyi**, Enrico Di Benedetto, Carmine Ortix and Denys Makarov. _Design of magnetic frustration and artificial ferrotoroidicity by geometry_. Swiss Nanomagnetism Summit. Zürich, Switzerland, 8-9 September, 2025, P. 37
@@ -27,7 +30,7 @@
 1. Olha Bezsmertna, Rui Xu, **Oleksandr Pylypovskyi**, David Raftrey, Andrea Sorrentino, Jose Ángel Fernández-Roldán, Ivan Soldatov, Daniel Wolf, Axel Lubk, Rudolf Schäfer, Peter Fischer and Denys Makarov. _Magnetic solitons in hierarchical 3D magnetic nanoflower shaped architectures._ [AIM 2025](https://www.aim2025.it/), Bressanone/Brixen, Italy, February 9–12 2025, P. 192
 
 
-**2024**
+    **2024**
 
 1. **Oleksandr V. Pylypovskyi**, Sophie F. Weber, Pavlo Makushko, Igor Veremchuk, Nicola A. Spaldin, Denys Makarov. _Surface-symmetry-driven Dzyaloshinskii-Moriya interaction in collinear antiferromagnets._ [CMD 31 conference](https://api.sci-meet.com/client/events/135/publications/12728/files/16994/download?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS5zY2ktbWVldC5jb20vb3JnYW5pemVyL2V2ZW50cy8xMzUvcHVibGljYXRpb25zL2V4cG9ydCIsImlhdCI6MTcyNDc2ODYzNSwiZXhwIjoxOTQwNzY4NjM1LCJuYmYiOjE3MjQ3Njg2MzUsImp0aSI6IjNrMERqbUpPYmhQenB2MXciLCJzdWIiOiIyIiwicHJ2IjoiMzc4N2ZiYTE2MThhOTMwNTI2YWNhNmM4YmI5YjQ0YjgzZjI5NzcyNiIsInB1YmxpY2F0aW9uX2ZpbGVfaWQiOjE2OTk0LCJ1c2VyX2lkIjoxNzUzNn0.2mq4eP6GKnkaqyKSOD07zdFYciopRhAsEKEKh0yjRGg), Septebmer 1-6, 2024, Braga, Portugal, P. 12728.
 1. Oleksandr V. Pylypovskyi. _Chiral and non-chiral magnetic texturing in antiferromagnetic Cr<sub>2</sub>O<sub>3</sub>._ [META 2024](https://metaconferences.org/META24/index.php/META/index), July 16-19 2024, Toyama, Japan, P. 543.
@@ -38,7 +41,8 @@
 
 1. **Oleksandr V. Pylypovskyi**, Natascha Hedrich, Artem V. Tomilo, Tobias Kosub, Kai Wagner, René Hübner, Brendan Shields, Denis D. Sheka, Jürgen Fassbender, Patrick Maletinsky, Denys Makarov. _Characterization of domain wall patterns in granular antiferromagnetic Cr<sub>2</sub>O<sub>3</sub> films._ [803. WE-Heraeus-Seminar](https://www.we-heraeus-stiftung.de/veranstaltungen/towards-functional-van-der-waals-magnets-by-unlocking-synergies-with-orbitronics-magnonics-altermagnetism-and-optics/main/)  "Towards Functional van der Waals magnets by Unlocking Synergies with Orbitronics, Magnonics, Altermagnetism, and Optics", 2-5 January 2024, Bad Honnef, Germany, P. 73.
 
-**2023** 
+
+    **2023**
 
 1. **Oleksandr V. Pylypovskyi**. _Strain- and Strain-gradient-induced Phenomena in Cr<sub>2</sub>O<sub>3</sub>._ [MMM 2023](https://2023.magnetism.org/program-overview ), Dallas, USA, Oct. 30-Nov. 3, 2023.
 1. Yelyzaveta A. Borysenko, Denis D. Sheka, Kostiantyn V. Yershov, Jürgen Fassbender, Jeroen van den Brink, Denys Makarov, **Oleksandr V. Pylypovskyi**. _Curvilinear Antiferromagnetic Spin Chains: Interplay Between Geometry And External Magnetic Field._ [IEEE NAP 2023](https://submission.ieeenap.org/site/submission.html?id=0598), Bratislava, Slovakia, Sep. 10-15, 2023.
