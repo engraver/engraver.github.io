@@ -3,52 +3,45 @@ remote_theme: engraver/not-pure-poole
 title: Oleksandr V. Pylypovskyi
 description: Home page of Oleksandr V. Pylypovskyi
 #og_image: /assets/img/profile-pic.jpg
+url: https://engraver.github.io
+avatar: /assets/img/ov-travel.jpg
+paginate: 5
+permalink: pretty
+#cover_image: /bg.jpeg
 
-header:
-  pages:
-    - name: Home
-      slug: /
-    - name: Bio
-    - name: Research
-    - name: Teaching
-    - name: Blog
+# header:
+#   pages:
+#     - name: Home
+#       slug: /
+#     - name: Bio
+#     - name: Research
+#     - name: Teaching
+#     - name: Blog
 
-footer:
-  show_powered_by: true
-  contact:
-    - name: Email
-      value: o.pylypovskyi&nbsp;α&nbsp;hzdr.de
-      link: mailto:o.pylypovskyi&nbsp;α&nbsp;hzdr.de
-    - name: Email
-      value: ovp.linkedin&nbsp;α&nbsp;gmail.com
-      link: mailto:ovp.linkedin&nbsp;α&nbsp;gmail.com
-#    - name: WeChat
-#      value: YourWeChatUsername
-#      link: "#"
-#  follow:
-#    - name: Twitter
-#      link: http://twitter.com/YourTwitterUsername
-#      username: "@YourTwitterUsername"
-#    - name: Facebook
-#      link: http://facebook.com/YourFacebookUsername
-#    - name: LinkedIn
-#      link: http://linkedin.com/in/YourLinkedInUsername
-#    - name: GitLab
-#      link: http://github.com/YourGitHubUsername
-#    - name: Dribbble
-#      link: https://dribbble.com/YourDribbbleUsername
-#    - name: RSS
-#      link: /feed.xml
+# footer:
+#   show_powered_by: true
+#   contact:
+#     - name: Email
+#       value: o.pylypovskyi&nbsp;α&nbsp;hzdr.de
+#       link: mailto:o.pylypovskyi&nbsp;α&nbsp;hzdr.de
+#     - name: Email
+#       value: ovp.linkedin&nbsp;α&nbsp;gmail.com
+#       link: mailto:ovp.linkedin&nbsp;α&nbsp;gmail.com
+
 
 # Build settings
-markdown: kramdown
 highlighter: rouge
 sass:
     style: :compressed
 plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-sitemap
 
-#output:
-#  html_document:
-#    includes:
-#      in_header: ga.html
+# Specify the author for blog posts
+author:
+  name: Oleksandr V. Pylypovskyi
+  url: https://engraver.github.io
+  email: o.pylypovskyi&nbsp;α&nbsp;hzdr.de
