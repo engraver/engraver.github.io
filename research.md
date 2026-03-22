@@ -1,3 +1,8 @@
+---
+layout: page
+title: Research
+---
+
 ## External profiles
 - [Google Scholar](https://scholar.google.com/citations?user=HQtFn0kAAAAJ)
 - [ORCID 0000-0002-5947-9760](https://orcid.org/0000-0002-5947-9760)
