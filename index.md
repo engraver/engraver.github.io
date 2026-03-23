@@ -1,14 +1,18 @@
 ---
-layout: home
-profile_picture:
-  src: /assets/img/ov-travel.jpg
-  alt: Visit to Ningbo in 2024
+layout: page
+title: Home page
 ---
+#---
+#layout: home
+#profile_picture:
+#  src: /assets/img/ov-travel.jpg
+#  alt: Visit to Ningbo in 2024
+#---
 
 
 ## Welcome!
 
-I am Oleksandr V. Pylypovskyi, a physicist working in the field of magnetism. After getting a PhD in theoretical physics in 2016, I worked as an assistant professor at Taras Shevchenko National University of Kyiv (Ukraine) and moved to Germany in 2019. Now I am a researcher at the [Helmholtz-Zentrum Dresden-Rossendorf e.V.](https://hzdr.de) in the department of Intelligent materials and systems. In parallel, I'm remotely lecturing in [Kyiv Academic University](https://kau.org.ua) and serving as an editorial board member in [Communications Materials](https://www.nature.com/commsmat/).
+I am Oleksandr V. Pylypovskyi, a physicist working in the field of magnetism. After getting a PhD in theoretical physics in 2016, I worked as an assistant professor at Taras Shevchenko National University of Kyiv (Ukraine) in group of [Prof. Denis D. Sheka](https://ritm.knu.ua/sheka/) and moved to Germany in 2019. Now I am a researcher at the [Helmholtz-Zentrum Dresden-Rossendorf e.V.](https://hzdr.de) in the department of Intelligent materials and systems with [Dr. Denys Makarov](https://www.smartsensorics.eu/department/dr-denys-makarov/). In parallel, I'm remotely lecturing in [Kyiv Academic University](https://kau.org.ua) and serving as an editorial board member in [Communications Materials](https://www.nature.com/commsmat/).
 
 See also web-sites of [Intelligent Materials and Systems](http://www.smartsensorics.eu/) group @ HZDR and [RiTM Team](https://ritm.knu.ua/) @ TSNUK
 

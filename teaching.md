@@ -1,4 +1,10 @@
-## Teaching activities
+---
+layout: page
+title: Teaching
+---
+
+
+## Activities
 
 [Work](./teaching/knu.md) in Taras Shevchenko National University of Kyiv (2014&#8211;2019): Software engineering, Near field electrodynamics, Scientific world view and related laboratory/practical classes
 

@@ -1,4 +1,10 @@
 - title: Main
-  url: /
+  url: /index/
+- title: Bio
+  url: /bio/
 - title: Research
   url: /research/
+- title: Teaching
+  url: /teaching/
+- title: Blog
+  url: /blog/

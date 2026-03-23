@@ -1,3 +1,9 @@
+---
+layout: page
+title: Short biography
+---
+
+
 ## Working experience
 
 * **Since 2024:** Editorial board member of [Communications Materials](https://www.nature.com/commsmat/), journal of Springer Nature family
