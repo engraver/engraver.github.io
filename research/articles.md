@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research manuscripts
+---
+
+
 # Research manuscripts
 
 (equal contribution)
