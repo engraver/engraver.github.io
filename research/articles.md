@@ -3,9 +3,6 @@ layout: page
 title: Research manuscripts
 ---
 
-
-# Research manuscripts
-
 (equal contribution)
 
 **2026**
