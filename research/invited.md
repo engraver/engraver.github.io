@@ -1,4 +1,7 @@
-# Invited talks
+---
+layout: page
+title: Invited talks
+---
 
 1. Oleksandr V. Pylypovskyi. _Topological And Geometric Effects In Magnetic Nanowires_, [META 2025](https://metaconferences.org/META25/files/meta25_proceedings.pdf), July 22-25, 2025, Torremolinos, Spain, P. 729
 1. Oleksandr V. Pylypovskyi. _Topological and ferrotoroidal magnetic textures in 3D nanoarchitectures._ [ICSM ICQMT 2025](https://icsmforever.org/), 26 April – 3 May, 2025, Ölüdeniz-Fethiye, Türkiye, P. 200

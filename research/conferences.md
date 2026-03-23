@@ -1,4 +1,9 @@
-# Conferences
+---
+layout: page
+title: Conferences
+---
+
+Just a list of conference abstracts and proceedings that have been given by me or my collaborators.
 
 <!--div style="margin-left:30px;font-weight:bold">This year</div -->
 

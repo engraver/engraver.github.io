@@ -1,4 +1,7 @@
-# Other activities 
+---
+layout: page
+title: Other activities 
+---
 
 **Patent application**
 

@@ -3,7 +3,7 @@ layout: page
 title: Research manuscripts
 ---
 
-(equal contribution)
+List of publications in refereed journals. Parentheses indicate the (equal contribution).
 
 **2026**
 1. Gianluca Gubbiotti, Olha Bezsmertna, **Oleksandr V. Pylypovskyi**, Rui Xu, Stephane Chiroli, Fatih Zighem, Claudia Fernandez Gonzalez, Andrea Sorrentino, David Raftrey, Daniel Wolf, Axel Lubk, Peter Fischer, Damien Faurie, Denys Makarov.<br>
