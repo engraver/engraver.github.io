@@ -2,13 +2,6 @@
 layout: page
 title: Home page
 ---
-#---
-#layout: home
-#profile_picture:
-#  src: /assets/img/ov-travel.jpg
-#  alt: Visit to Ningbo in 2024
-#---
-
 
 ## Welcome!
 

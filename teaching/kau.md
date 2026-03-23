@@ -1,4 +1,7 @@
-## Kyiv Academic University (since 2022)
+---
+layout: page
+title: Kyiv Academic University (since 2022)
+---
 
 ### Computer simulations of physical systems
 [Moodle page for the registered students (2022)](https://eduportal.kau.org.ua/course/view.php?id=353)

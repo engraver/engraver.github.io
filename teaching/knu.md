@@ -1,4 +1,8 @@
-## Taras Shevchenko National University of Kyiv (2014-2019)
+---
+layout: page
+title: Taras Shevchenko National University of Kyiv (2014-2019)
+---
+
 
 I lectured courses in Software engineering, Near field electrodynamics (both at the Faculty of Radio Physics, Electronics and Computer Systems) and Scientific world view (Institute of philology). 
 
