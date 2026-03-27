@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adjusting inline tikz macro to baseline"
-tags: latex, tikz
+tags: latex tikz
 ---
 
 Here, we use `\raisebox` to shift tikz node a bit down:
