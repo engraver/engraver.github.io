@@ -6,3 +6,6 @@
   url: /teaching/
 - title: Blog
   url: /blog/
+- type: tags
+  title: Tags
+  url: /blog/tags/
