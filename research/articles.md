@@ -6,6 +6,9 @@ title: Research manuscripts
 List of publications in refereed journals. Parentheses indicate the (equal contribution).
 
 **2026**
+1. Lin Guo, Rui Xu, Proloy Taran Das, Eduardo Sergio Oliveros-Mata, Xuan Peng, **Oleksandr V. Pylypovskyi**, RenéHübner, Fabian Ganss, Xiaotao Wang, Yi Li, Sebastian Gepp, Yevhen Zabila, Xilai Bao, Shengbin Li, Qihao Zhang, Igor Veremchuk, Željko Janićijević, Larysa Baraban, Clemens Voigt, Sindy Mosch, Oliver Gutfleisch, Run-Wei Li Denys Makarov.<br>
+_Eco-sustainable magnetoresistive sensors towards disposable magnetoelectronics_,<br>
+Nature Communications (2026) DOI:[10.1038/s41467-026-71077-9](https://doi.org/10.1038/s41467-026-71077-9)
 1. Gianluca Gubbiotti, Olha Bezsmertna, **Oleksandr V. Pylypovskyi**, Rui Xu, Stephane Chiroli, Fatih Zighem, Claudia Fernandez Gonzalez, Andrea Sorrentino, David Raftrey, Daniel Wolf, Axel Lubk, Peter Fischer, Damien Faurie, Denys Makarov.<br>
 _Curvilinear magnonic crystal based on 3D hierarchical nanotemplates_,<br>
 Nano Letters (2026) DOI:[10.1021/acs.nanolett.5c06216](https://doi.org/10.1021/acs.nanolett.5c06216) ArXiv: [2512.11663 ](https://arxiv.org/abs/2512.11663)
