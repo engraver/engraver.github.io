@@ -13,7 +13,8 @@ Nature Communications (2026) DOI:[10.1038/s41467-026-71077-9](https://doi.org/10
 _Curvilinear magnonic crystal based on 3D hierarchical nanotemplates_,<br>
 Nano Letters (2026) DOI:[10.1021/acs.nanolett.5c06216](https://doi.org/10.1021/acs.nanolett.5c06216) ArXiv: [2512.11663 ](https://arxiv.org/abs/2512.11663)
 
-**2025**
+    **2025**
+
 1. (Eduardo Sergio Oliveros-Mata, **Oleksandr V. Pylypovskyi**, Eleonora Raimondo), Rico Illing, Yevhen Zabila, Lin Guo, Guannan Mu, Mónica Navarro López, Xu Wang, Georgios Tzortzinis, Angelos Filippatos, Gilbert Santiago Cañón Bermúdez, Francesca Garesci, Giovanni Finocchio,  Denys Makarov.<br>
 _Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing_,<br>
 ArXiv:[2511.23215](https://arxiv.org/abs/2511.23215)
