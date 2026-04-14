@@ -7,8 +7,10 @@ title: Books and book chapters
 
 My main research area with the focus on curvilinear magnets and symmetry-driven phenomena
 
+1. **Oleksandr V. Pylypovskyi**, Denys Makarov and Carmine Ortix.<br>
+_Curvilinear magnetoelectrics with magnetic wires_, In: Magnetic Nano- and Microwires (Elsevier), 2026. DOI: [10.1016/b978-0-443-36534-8.00002-6](https://doi.org/10.1016/b978-0-443-36534-8.00002-6)
 1. Denys Makarov, **Oleksandr V. Pylypovskyi**.<br>
-_Magnetic nanostructures_, In: Reference Module in Materials Science and Materials Engineering (Elsevier), 2022. DOI:[10.1016/b978-0-323-90800-9.00048-2](https://doi.org/10.1016/b978-0-323-90800-9.00048-2)
+_Magnetic nanostructures_, In: Reference Module in Materials Science and Materials Engineering (Elsevier), 2024. DOI:[10.1016/b978-0-323-90800-9.00048-2](https://doi.org/10.1016/b978-0-323-90800-9.00048-2)
 1. **Oleksandr V. Pylypovskyi**, Charudatta Phatak, Oleksii M. Volkov. <br>
 _Effects of Curvature and Torsion on Magnetic Nanowires_, In: Makarov, D., Sheka, D.D. (eds) Curvilinear Micromagnetism. Topics in Applied Physics, vol 146. Springer, Cham, 2022. DOI:[10.1007/978-3-031-09086-8_2](https://doi.org/10.1007/10.1007/978-3-031-09086-8_2) 
 1. Oleksandr V. Dobrovolskiy, **Oleksandr V. Pylypovskyi**, Luka Skoric, Amalio Fernández-Pacheco, Arjen Van Den Berg, Sam Ladak, Michael Huth.<br>
