@@ -28,4 +28,4 @@ dw[x_] := 2 ArcTan[Exp[-x/ell]]
 w /. \[Theta] -> (dw[#] &) // FullSimplify
 ```
 
-Both approaches give \\\(w = 2\sech^2 (x/\ell) \\\), but the second one has less room for mistakes.
+Both approaches give \\\(w = 2\mathrm{sech}^2\,(x/\ell) \\\), but the second one has less room for mistakes.
