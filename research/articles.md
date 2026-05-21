@@ -6,18 +6,23 @@ title: Research manuscripts
 List of publications in refereed journals. Parentheses indicate the (equal contribution). # = (co-)corresponding author.
 
 **2026**
-1. Lin Guo, Rui Xu, Proloy Taran Das, Eduardo Sergio Oliveros-Mata, Xuan Peng, **Oleksandr V. Pylypovskyi**, RenéHübner, Fabian Ganss, Xiaotao Wang, Yi Li, Sebastian Gepp, Yevhen Zabila, Xilai Bao, Shengbin Li, Qihao Zhang, Igor Veremchuk, Željko Janićijević, Larysa Baraban, Clemens Voigt, Sindy Mosch, Oliver Gutfleisch, Run-Wei Li Denys Makarov.<br>
+1. (Eduardo Sergio Oliveros‐Mata, Oleksandr V. Pylypovskyi), Eleonora Raimondo, Rico Illing, Yevhen Zabila, Lin Guo, Guannan Mu, Mónica Navarro López, Xu Wang, Georgios Tzortzinis, Angelos Filippatos, Gilbert Santiago Cañón Bermúdez, Francesca Garesci, Giovanni Finocchio, Denys Makarov.<br>
+_Field‐Programable Dynamics in a Soft Magnetic Actuator Enabling True Random Number Generation and Reservoir Computing,_
+Advanced Intelligent Systems, e70432 (2026) DOI:[10.1002/aisy.70432](https://doi.org/10.1002/aisy.70432), ArXiv:[2511.23215](https://arxiv.org/abs/2511.23215)
+1. Ondřej Wojewoda, Robert Kraft, Olha Bezsmertna, **Oleksandr Pylypovskyi**, Jose A. Fernandez Roldan, Caroline A. Ross, Rui Xu, Sergey A. Bunyaev, Ivan Soldatov, Rudolf Schäfer, Claas Abert, Gleb N. Kakazei, Michal Urbánek, Denys Makarov.<br>
+_Sculpting Spin-Wave Landscapes via Curvature of 2D Magnonic Crystals,_
+ArXiv:[2605.05156](https://arxiv.org/abs/2605.05156)
+1. (Xilai Bao, **Oleksandr Pylypovskyi**), Huali Yang, Yali Xie, Damien Faurie, Fatih Zighem, Sophie Weber, Jiabin Wang, Jiachen Liang, Hong Xu, Ruoan Zou, Huatao Jiang, Dong Han, Pavlo Makushko, Xiaotao Wang, Lin Guo, Proloy T. Das, Nicola Spaldin, Denys Makarov, Run-Wei Li.<br>
+_Piezomagnetic Switching of Nonvolatile Antiferromagnetic States,_<br>
+ArXiv:[2604.12786](https://arxiv.org/abs/2604.12786)
+1. Lin Guo, Rui Xu, Proloy Taran Das, Eduardo Sergio Oliveros-Mata, Xuan Peng, **Oleksandr V. Pylypovskyi**, René Hübner, Fabian Ganss, Xiaotao Wang, Yi Li, Sebastian Gepp, Yevhen Zabila, Xilai Bao, Shengbin Li, Qihao Zhang, Igor Veremchuk, Željko Janićijević, Larysa Baraban, Clemens Voigt, Sindy Mosch, Oliver Gutfleisch, Run-Wei Li, Denys Makarov.<br>
 _Eco-sustainable magnetoresistive sensors towards disposable magnetoelectronics_,<br>
 Nature Communications (2026) DOI:[10.1038/s41467-026-71077-9](https://doi.org/10.1038/s41467-026-71077-9)
 1. Gianluca Gubbiotti, Olha Bezsmertna, **Oleksandr V. Pylypovskyi**, Rui Xu, Stephane Chiroli, Fatih Zighem, Claudia Fernandez Gonzalez, Andrea Sorrentino, David Raftrey, Daniel Wolf, Axel Lubk, Peter Fischer, Damien Faurie, Denys Makarov.<br>
 _Curvilinear magnonic crystal based on 3D hierarchical nanotemplates_,<br>
-Nano Letters (2026) DOI:[10.1021/acs.nanolett.5c06216](https://doi.org/10.1021/acs.nanolett.5c06216) ArXiv: [2512.11663 ](https://arxiv.org/abs/2512.11663)
+Nano Letters (2026) DOI:[10.1021/acs.nanolett.5c06216](https://doi.org/10.1021/acs.nanolett.5c06216) ArXiv:[2512.11663 ](https://arxiv.org/abs/2512.11663)
 
     **2025**
-
-1. (Eduardo Sergio Oliveros-Mata, **Oleksandr V. Pylypovskyi**, Eleonora Raimondo), Rico Illing, Yevhen Zabila, Lin Guo, Guannan Mu, Mónica Navarro López, Xu Wang, Georgios Tzortzinis, Angelos Filippatos, Gilbert Santiago Cañón Bermúdez, Francesca Garesci, Giovanni Finocchio,  Denys Makarov.<br>
-_Field-programmable dynamics in a soft magnetic actuator enabling true random number generation and reservoir computing_,<br>
-ArXiv:[2511.23215](https://arxiv.org/abs/2511.23215)
 1. Rui Xu, Eduardo Sergio Oliveros Mata, Fei Cheng, **Oleksandr V. Pylypovskyi**, Qihao Zhang, Proloy Taran Das, Yevhen Zabila, Olha Bezsmertna, Jun Yang, Xiaotao Wang, Sebastian Lehmann, Lin Guo, René Hübner, Fabian Ganss, Ran He, Rico Illing, Kornelius Nielsch and Denys Makarov.<br>
 _Printed Conformal and Transparent Magnetoresistive Sensors for Seamless Integration and Environment-Resilient Touchless Interaction_,<br>
 ACS Nano, 19, P. 21891 (2025) DOI:[10.1021/acsnano.5c07664](https://doi.org/10.1021/acsnano.5c07664)
