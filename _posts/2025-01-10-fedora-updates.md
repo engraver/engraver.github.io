@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preparing Fedora for normal life"
+title:  "Preparing Fedora for a normal life"
 tags: linux fedora 
 ---
 
@@ -69,7 +69,7 @@ P. S. Still I do not undestand why Insynk does not work with the default Wayland
 
 Usefull stuff I always install last:
 ```bash
-sudo dnf install geany gimp inkscape yakuake ipython
+sudo dnf install geany gimp inkscape yakuake ipython keepassxc
 sudo dnf install flexiblas-openblas-threads # needed by gimp
 sudo dnf install @development-tools
 sudo dnf install gitk texlive-scheme-full texstudio 
@@ -99,7 +99,7 @@ sudo dnf install micromamba
 ```
 Here, we should remove default conda channels to keep the community-based channels only using [these instructions](https://mamba.readthedocs.io/en/latest/user_guide/troubleshooting.html#defaults-channels).
 
-Other stuff: keepassxc, obsidian, insynk, onlyoffice, zoom...
+Other stuff: insynk, onlyoffice, zoom...
 
 ```bash
 sudo dnf install hplip hplip-gui
