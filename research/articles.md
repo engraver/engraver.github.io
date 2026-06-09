@@ -6,11 +6,14 @@ title: Research manuscripts
 List of publications in refereed journals. Parentheses indicate the (equal contribution). # = (co-)corresponding author.
 
 **2026**
+1. Paulina J. Prusik, Igor Veremchuk, Florin Radu, Andrey N. Anisimov, Pavlo Makushko, Georgy V. Astakhov, René Hübner, Alexander Edström, Jürgen Fassbender, Fabian Ganss, Massimiliano Stengel, Kirill D. Belashchenko, Denys Makarov, **Oleksandr V. Pylypovskyi**<br>
+_Local multiferroic ordering at room temperature in collinear magnetoelectric antiferromagnets induced by flexo-Zeeman coupling_<br>
+ArXiv:[2606.04738](https://arxiv.org/abs/2606.04738)
 1. (Eduardo Sergio Oliveros‐Mata, Oleksandr V. Pylypovskyi), Eleonora Raimondo, Rico Illing, Yevhen Zabila, Lin Guo, Guannan Mu, Mónica Navarro López, Xu Wang, Georgios Tzortzinis, Angelos Filippatos, Gilbert Santiago Cañón Bermúdez, Francesca Garesci, Giovanni Finocchio, Denys Makarov.<br>
-_Field‐Programable Dynamics in a Soft Magnetic Actuator Enabling True Random Number Generation and Reservoir Computing,_
+_Field‐Programable Dynamics in a Soft Magnetic Actuator Enabling True Random Number Generation and Reservoir Computing,_<br>
 Advanced Intelligent Systems, e70432 (2026) DOI:[10.1002/aisy.70432](https://doi.org/10.1002/aisy.70432), ArXiv:[2511.23215](https://arxiv.org/abs/2511.23215)
 1. Ondřej Wojewoda, Robert Kraft, Olha Bezsmertna, **Oleksandr Pylypovskyi**, Jose A. Fernandez Roldan, Caroline A. Ross, Rui Xu, Sergey A. Bunyaev, Ivan Soldatov, Rudolf Schäfer, Claas Abert, Gleb N. Kakazei, Michal Urbánek, Denys Makarov.<br>
-_Sculpting Spin-Wave Landscapes via Curvature of 2D Magnonic Crystals,_
+_Sculpting Spin-Wave Landscapes via Curvature of 2D Magnonic Crystals,_<br>
 ArXiv:[2605.05156](https://arxiv.org/abs/2605.05156)
 1. (Xilai Bao, **Oleksandr Pylypovskyi**), Huali Yang, Yali Xie, Damien Faurie, Fatih Zighem, Sophie Weber, Jiabin Wang, Jiachen Liang, Hong Xu, Ruoan Zou, Huatao Jiang, Dong Han, Pavlo Makushko, Xiaotao Wang, Lin Guo, Proloy T. Das, Nicola Spaldin, Denys Makarov, Run-Wei Li.<br>
 _Piezomagnetic Switching of Nonvolatile Antiferromagnetic States,_<br>
