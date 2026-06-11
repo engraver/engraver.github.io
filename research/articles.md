@@ -6,8 +6,11 @@ title: Research manuscripts
 List of publications in refereed journals. Parentheses indicate the (equal contribution). # = (co-)corresponding author.
 
 **2026**
+1. Rui Xu, Guannan Mu, **Oleksandr V. Pylypovskyi**, Qihao Zhang, Rico Illing, René Hübner, Ran He, Andreas Knüpfer, Sebastian Lehmann, Olha Bezsmertna, Kornelius Nielsch, Denys Makarov<br>
+_Machine-Learning-Enhanced Printed Vertical Magnetoresistive Sensors for Transparent, Flexible, Multimodal Interactive Magnetoelectronics,_<br>
+Advanced Science, e76052 (2026) DOI:[10.1002/advs.76052](https://doi.org/10.1002/advs.76052)
 1. Paulina J. Prusik, Igor Veremchuk, Florin Radu, Andrey N. Anisimov, Pavlo Makushko, Georgy V. Astakhov, René Hübner, Alexander Edström, Jürgen Fassbender, Fabian Ganss, Massimiliano Stengel, Kirill D. Belashchenko, Denys Makarov, **Oleksandr V. Pylypovskyi**<br>
-_Local multiferroic ordering at room temperature in collinear magnetoelectric antiferromagnets induced by flexo-Zeeman coupling_<br>
+_Local multiferroic ordering at room temperature in collinear magnetoelectric antiferromagnets induced by flexo-Zeeman coupling,_<br>
 ArXiv:[2606.04738](https://arxiv.org/abs/2606.04738)
 1. (Eduardo Sergio Oliveros‐Mata, Oleksandr V. Pylypovskyi), Eleonora Raimondo, Rico Illing, Yevhen Zabila, Lin Guo, Guannan Mu, Mónica Navarro López, Xu Wang, Georgios Tzortzinis, Angelos Filippatos, Gilbert Santiago Cañón Bermúdez, Francesca Garesci, Giovanni Finocchio, Denys Makarov.<br>
 _Field‐Programable Dynamics in a Soft Magnetic Actuator Enabling True Random Number Generation and Reservoir Computing,_<br>
