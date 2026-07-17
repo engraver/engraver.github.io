@@ -31,6 +31,10 @@ Physical Review Research, 5, L022063 (2023) [http://dx.doi.org/10.1103/physrevre
 Chirality coupling in topological magnetic textures with multiple magnetochiral parameters<br>
 Nature Communications, 14, 1491 (2023) [https://doi.org/10.1038/s41467-023-37081-z](https://doi.org/10.1038/s41467-023-37081-z)
   - Theoretical and experimental demonstration of the doubling of the magnetochiral parametres characterising magnetic vortex in a Permalloy hemisphere. The key role is played by the interaction of the volume and surface magnetostatic charges.
+- Paola Gentile, Mario Cuoco, Oleksii M. Volkov, Zu-Jian Ying, Ivan J. Vera-Marun, Denys Makarov and Carmine Ortix<br>
+_Electronic materials with nanoscale curved geometries_<br>
+Nature Electronics, 5, 551-563 (2022) http://dx.doi.org/10.1038/s41928-022-00820-z
+  - Review on the curvilinear condensed matter that includes not only curvilinear magnetism, but also effects of geometry in electronic systems
 
 
 ## Supplementary references
