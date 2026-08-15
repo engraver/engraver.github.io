@@ -6,6 +6,9 @@ title: Research manuscripts
 List of publications in refereed journals. Parentheses indicate the (equal contribution). # = (co-)corresponding author.
 
 **2026**
+1. Denys Makarov, **Oleksandr V. Pylypovskyi**, Rui Xu and Carmine Ortix<br>
+_Shape, strain and spin texture as a modern triad for magnetic materials,_<br>
+Nature Nanotechnology, 21, 1068 (2026) DOI:[10.1038/s41565-026-02232-y](https://doi.org/10.1038/s41565-026-02232-y) 
 1. Paul Lehmann, Kai Wagner, Pavlo Makushko, **Oleksandr V. Pylypovskyi**, Igor Veremchuk, Sophie F. Weber, Nicola A. Spaldin, Denys Makarov, Patrick Maletinsky<br>
 _Facet tomography of chromia's magnetoelectric multipole,_<br>
 Physical Review Research, 8, 033135 (2026) DOI:[10.1103/4l6w-pgdj](https://doi.org/10.1103/4l6w-pgdj)
