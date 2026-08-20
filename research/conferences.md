@@ -9,6 +9,7 @@ Just a list of conference abstracts and proceedings that have been given by me o
 
 **2026**
 
+1. Oleksandr V. Pylypovskyi. _Local and non-local phenomena in curvilinear and 3D magnets_, [META 2026](https://metaconferences.org/META26/files/meta26_proceedings.pdf), July 14-17, 2026, Dublin, Ireland, P. 568
 1. Guannan Mu, Rui Xu, Proloy T. Das, Jan Schmidtpeter, Lin Guo, **Oleksandr V. Pylypovskyi**, Andreas Knüpfer, Rico Illing, Olha Bezsmertna and Denys Makarov
 . _Deep learning enabled wearable magnetoelectronics_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/7), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 49.5
 1. **Oleksandr V. Pylypovskyi**, Gaspare Varvaro, Davide Peddis, Priyanka Mishra, Carmine Autieri, Filipp N. Rybakov, Denis D. Sheka and Denys Makarov. _Magnetic solitons in spherical maghemite nanoshells_. [DPG Spring Meeting](https://www.dpg-verhandlungen.de/year/2026/conference/dresden/part/ma/session/44/contribution/7), DPG Spring Meeting, Dresden, Germany, 8-13 March 2026, P. MA 44.7

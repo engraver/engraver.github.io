@@ -3,6 +3,7 @@ layout: page
 title: Invited talks
 ---
 
+1. Oleksandr V. Pylypovskyi. _Local and non-local phenomena in curvilinear and 3D magnets_, [META 2026](https://metaconferences.org/META26/files/meta26_proceedings.pdf), July 14-17, 2026, Dublin, Ireland, P. 568
 1. Oleksandr V. Pylypovskyi. _Curvilinear magnetic meso- and nanoarchitectures_, Seminar in group of Prof. Sopie Weber (Chalmers University), May 18, 2026, Göteborg, Sweden
 1. Oleksandr V. Pylypovskyi. _Topological And Geometric Effects In Magnetic Nanowires_, [META 2025](https://metaconferences.org/META25/files/meta25_proceedings.pdf), July 22-25, 2025, Torremolinos, Spain, P. 729
 1. Oleksandr V. Pylypovskyi. _Topological and ferrotoroidal magnetic textures in 3D nanoarchitectures._ [ICSM ICQMT 2025](https://icsmforever.org/), 26 April – 3 May, 2025, Ölüdeniz-Fethiye, Türkiye, P. 200
