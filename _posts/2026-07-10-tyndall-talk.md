@@ -13,7 +13,7 @@ Talk title: Curvilinear magnets as a modern approach for material design
 
 - Makarov, Pylypovskyi, Xu, Ortix<br>
 _Shape, strain and spin texture as a modern triad for magnetic material_<br>
-Nature Nanotechnology (2026), in press. Link will be added after publishing
+Nature Nanotechnology 21, 1068 (2026) https://doi.org/10.1038/s41565-026-02232-y
   - Review on recent progress of curvilinear magnetism and introduction of the concept of the metageometric material design: construction of magnetic superlattices that have properties distinct from their material
 - Olha Bezsmertna, Rui Xu, Oleksandr Pylypovskyi, David Raftrey, Andrea Sorrentino, Jose Angel Fernandez-Roldan, Ivan Soldatov, Daniel Wolf, Axel Lubk, Rudolf Schäfer, Peter Fischer and Denys Makarov<br>
 _Magnetic Solitons in Hierarchical 3D Magnetic Nanoarchitectures of Nanoflower Shape_<br>
