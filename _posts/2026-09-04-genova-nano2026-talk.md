@@ -11,10 +11,14 @@ Talk title: Curvilinear magnetism: from magnetic states to magnetoelectric multi
 
 ## The key references
 
-- Makarov, Pylypovskyi, Xu, Ortix<br>
+- Denys Makarov, Oleksandr V. Pylypovskyi, Rui Xu, Carmine Ortix<br>
 _Shape, strain and spin texture as a modern triad for magnetic material_<br>
 Nature Nanotechnology 21, 1068 (2026) DOI:[10.1038/s41565-026-02232-y](https://doi.org/10.1038/s41565-026-02232-y)
   - Review on recent progress of curvilinear magnetism and introduction of the concept of the metageometric material design: construction of magnetic superlattices that have properties distinct from their material
+- Oleksandr V. Pylypovskyi, Denys Makarov, Carmine Ortix<br>
+_Curvilinear low-dimensional magnetoelectrics_<br>
+JMMM, in press. Link will be updated after publishing
+  - Review on curvilinear magnetoelectric phenomena with a focus on magnetoroidics. See also our chapter [9 - Curvilinear magnetoelectrics with magnetic wires](https://doi.org/10.1016/B978-0-443-36534-8.00002-6) in „Magnetic Nano- and Microwires“ edited by Manuel Vázquez.
 - Olha Bezsmertna, Rui Xu, Oleksandr Pylypovskyi, David Raftrey, Andrea Sorrentino, Jose Angel Fernandez-Roldan, Ivan Soldatov, Daniel Wolf, Axel Lubk, Rudolf Schäfer, Peter Fischer and Denys Makarov<br>
 _Magnetic Solitons in Hierarchical 3D Magnetic Nanoarchitectures of Nanoflower Shape_<br>
 Nano Letters, 24, 15774 (2024) DOI:[10.1021/acs.nanolett.4c04584](http://dx.doi.org/10.1021/acs.nanolett.4c04584)
